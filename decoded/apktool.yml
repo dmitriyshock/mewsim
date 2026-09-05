@@ -7,8 +7,8 @@ sdkInfo:
   minSdkVersion: 14
   targetSdkVersion: 24
 versionInfo:
-  versionCode: 1004002
-  versionName: 1.4.0-android16
+  versionCode: 1004003
+  versionName: 1.4.1-android15-16
 resourcesInfo:
   packageId: 127
   keepRawValues: true

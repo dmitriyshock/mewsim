@@ -15,7 +15,7 @@ engine-arm64*.bin
 *.xml
 
 # Keep the verified release artifacts
-!release/MewSim-1.4.0-Android16.apk
-!release/MewSim-1.4.0-Android16.sha256
+!release/MewSim-1.4.1-Android15-16.apk
+!release/MewSim-1.4.1-Android15-16.sha256
 !release/Проверка.txt
 !release/verified-on-s24-ultra.png
