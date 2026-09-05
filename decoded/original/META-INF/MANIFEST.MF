@@ -1,0 +1,3194 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_111 (Oracle Corporation)
+
+Name: assets/480/minigames/flappycat/flappycat.ext
+SHA1-Digest: m2hsr23bKmBob4jmX37Ofi985sE=
+
+Name: assets/sounds/plate4.wav
+SHA1-Digest: buFfeFP8Qo/xVGEW32Y2hm9j1yU=
+
+Name: assets/960/gui/flash_gui.bin
+SHA1-Digest: nyIzbPo76VhU49LiYFspSxWPAn8=
+
+Name: assets/640/icons_store/icons_repair.png
+SHA1-Digest: Y4/7m1SNKgSyLAePmC9KmVyUW9U=
+
+Name: assets/1280/gui/gui.ext
+SHA1-Digest: fFpygzjoA+wPcbDmD+VY3RHe4vM=
+
+Name: assets/960/icons_store/icons_toys.bin
+SHA1-Digest: H0xTd1qZsn+xKRQqjggWf+J3VM8=
+
+Name: assets/480/minigames/flappycat/flappycat.png
+SHA1-Digest: MpWkPYV3wQeRvqLEhTG+UlPSMM8=
+
+Name: assets/640/icons_store/icons_repair.ext
+SHA1-Digest: naLmr4jHt79nbDCiO8Ontfnd82g=
+
+Name: assets/1280/gui/gui.png
+SHA1-Digest: 6A28Gk4ViOX/f9hUvTfR+YCVH9w=
+
+Name: assets/Icon-60.png
+SHA1-Digest: Vl/D2eurdSV7y6VzsP6pJenMJx4=
+
+Name: assets/locations/home/sprites/bubbles/books.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/sounds/mau_male2.wav
+SHA1-Digest: 89fXtwdk0oyGQzTtO37dCooTxKU=
+
+Name: assets/locations/home/sprites/bubbles/bench_2.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/sounds/parrot_1.wav
+SHA1-Digest: I+8l506v4dlJVZ6vE1L+Si5oLMg=
+
+Name: assets/locations/garden/map/tileset_padding.png
+SHA1-Digest: qyN72GOnYaONO7cktV7fHVcYF1M=
+
+Name: assets/sounds/dance_1.mp3
+SHA1-Digest: gLIj6OiQLzrx/beaIRzFBXk+P5E=
+
+Name: assets/locations/home/sprites/bubbles/mirror.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal.9
+ .png
+SHA1-Digest: XwI93Zyt8z66HPZuqkd2z20Acik=
+
+Name: assets/locations/garden/map/tileset.xml
+SHA1-Digest: fJCCyRY/0XdD5NcXd92v+r82sBo=
+
+Name: assets/480/splash/ru/splash.png
+SHA1-Digest: 2Rfs+BopeugN6Ctr3hZwHKbrdJA=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.
+ 9.png
+SHA1-Digest: zgte2j1HJORn1wmz6Tfql3ZhrSw=
+
+Name: assets/320/icons_store/icons_shop_garden.bin
+SHA1-Digest: NGTvl334kiDVRydZjeaAA2jRRMs=
+
+Name: assets/logo/1242x1242.jpg
+SHA1-Digest: bVjxPCRtiUSuBp2i/F37ZMWJ/V0=
+
+Name: assets/640/gui/gui.bin
+SHA1-Digest: EiT5xatWdeLifHQIIliOyjlNUfs=
+
+Name: assets/960/splash/ru/splash.ext
+SHA1-Digest: IjuQfG7ayoSR75fBByKv4Ye/5dw=
+
+Name: assets/locations/garden/sprites/static.bin
+SHA1-Digest: BEQmgaRI3V1NM7WhNgBE6HDpaRw=
+
+Name: assets/960/icons_store/icons_interior.bin
+SHA1-Digest: JnlCeg0rdbfXeyrPIZT4FDqFquk=
+
+Name: res/drawable-xxxhdpi-v4/icon.png
+SHA1-Digest: COcxtMJMVp6iX4iCr8tzWs/c+Fs=
+
+Name: assets/640/gui/flash_gui.bin
+SHA1-Digest: 23Axy77ChVrpzqy1UU3KFEB5k+k=
+
+Name: assets/locations/home/sprites/bubbles/room4floor_1.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/toy_doll.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/320/gui/cat_choise.bin
+SHA1-Digest: 3LbPM1UpfPYTmjCEdMo6WQi/1ic=
+
+Name: assets/960/splash/ru/splash.png
+SHA1-Digest: PsjvuSfO6YFhdYORv0fx8EpuHPk=
+
+Name: assets/locations/home/sprites/bubbles/bowl_candy.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/room4floor_1.png
+SHA1-Digest: 4SLDxlVc3q7YMabvNh8i7H/y9TM=
+
+Name: assets/480/splash/ru/splash.ext
+SHA1-Digest: +2UEOm/IDKlFFeJSguOBjggJIFE=
+
+Name: assets/cat/cat_3.png
+SHA1-Digest: VJUiBTXjPxKthaVEayLPcloBWfI=
+
+Name: assets/locations/garden/sprites/bubbles/spot.png
+SHA1-Digest: Tr3ZKqxIGCP5U1KA1BZWZfdgLoc=
+
+Name: assets/locations/home/sprites/bubbles/toy_doll.png
+SHA1-Digest: P+u7JL/zbL6oMe1RSsu1JoegPyQ=
+
+Name: assets/sounds/mouse2.wav
+SHA1-Digest: f1UuJjg+/O+ZtGTS+86R0X8Yflg=
+
+Name: assets/shaders/gui.group
+SHA1-Digest: w/+xSfyF6lifZg5kbnKCq1HaUbg=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_disabl
+ ed.9.png
+SHA1-Digest: V3e9Fl537skkuNM50YXSITM9hP4=
+
+Name: assets/locations/garden/sprites/bubbles/mill.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: res/drawable/img_interstitial_close_icon.png
+SHA1-Digest: yOhm7+FRp2hTB2G/4k6WmXNtoUk=
+
+Name: assets/vg_mute_off.png
+SHA1-Digest: vhPpQ+iPN7V3M45TmpZ6JV8R01c=
+
+Name: assets/locations/home/sprites/bubbles/mouse.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/bowl_tea.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/dex/adcolony.dex
+SHA1-Digest: VVyF+2HlibQE7BgiF46EBleBBoM=
+
+Name: assets/locations/home/sprites/bubbles/bowl_canned_food.png
+SHA1-Digest: gVQUghsnU4p5E4waf10+MmvH5Wc=
+
+Name: assets/640/icons_store/icons_shop_garden.bin
+SHA1-Digest: lokxy1DcL0/HJHP4RH+BD8HZlTw=
+
+Name: assets/cat/cat_mask.psd
+SHA1-Digest: hOr9moGofJXIXMkMOxxInzTBLlc=
+
+Name: assets/480/icons_store/icons_service.ext
+SHA1-Digest: 20OyvGwMiGBqC8DCOUES+pYLeEY=
+
+Name: assets/temp/tmp7.dat
+SHA1-Digest: 4hl/55CDg7Z0HfpzvTwHMmfmbH4=
+
+Name: assets/locations/home/sprites/bubbles/bowl_canned_food.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/bowl_tea.png
+SHA1-Digest: BREUiRprqZJ4+tE2PKNCiR4hccw=
+
+Name: assets/960/icons_store/icons_service.png
+SHA1-Digest: JtyVSnP9iavSL4itiukYHz/tDN8=
+
+Name: assets/480/icons_store/icons_service.png
+SHA1-Digest: yrqaWaoULOP7SJSDiCjJ4XaMTMQ=
+
+Name: assets/locations/home/sprites/bubbles/bowl_fish.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/mouse.png
+SHA1-Digest: oa9W1FgNKy6CR+Fq31S/POxQX3M=
+
+Name: assets/sounds/door.wav
+SHA1-Digest: oFckkbm+NpOsBShhzlCeQpI+s0I=
+
+Name: assets/sounds/tik-tak.wav
+SHA1-Digest: bY+iVE42QO29qqJSUr8WR1SRxvI=
+
+Name: assets/locations/garden/sprites/bubbles/spot.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/960/icons_store/icons_service.ext
+SHA1-Digest: MrBudvmpojqtQ4l3+Hrnscc1vd8=
+
+Name: assets/640/gui/achievement.ext
+SHA1-Digest: 1id/T2cFejA5FEcT6jkDdIx+rZg=
+
+Name: assets/locations/home/sprites/bubbles/bench_1.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/mewsim_dp_free_rel_aarch64.s3e
+SHA1-Digest: pkaM6EG7VWFCLJlNsytz9p7ZPcw=
+
+Name: assets/sounds/pm_mob_die.wav
+SHA1-Digest: vRQ9IEGguFETukpXyQiSbNHKCs4=
+
+Name: assets/locations/home/sprites/bubbles/room3wall_1.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/bowl_water.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/640/gui/achievement.png
+SHA1-Digest: SuWGQwiIgws9KizpQT+XbLmugnY=
+
+Name: res/drawable-xhdpi-v4/browser_left_arrow.png
+SHA1-Digest: U7LlUT7YMPLlf2QuHLKE5o7XUK8=
+
+Name: assets/1280/gui/flash_gui.png
+SHA1-Digest: HJa9lK3nsLCDWj61/KAaP4j/u4M=
+
+Name: assets/locations/home/sprites/bubbles/water.png
+SHA1-Digest: G1T3qjgleIKH0yEqu7PeH7gdhGQ=
+
+Name: assets/sounds/mau_male1.wav
+SHA1-Digest: MNl2TVjNc6ioDJdcuI8U8SXJWg4=
+
+Name: assets/locations/home/sprites/bubbles/room1wall_3.png
+SHA1-Digest: NOlly4ZkiJDC3pw8T62sNm3I154=
+
+Name: assets/1280/gui/flash_gui.ext
+SHA1-Digest: yCrEJ0GbJONTuGqfBzWucEpcEwg=
+
+Name: assets/locations/home/sprites/bubbles/bird2.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/ring.png
+SHA1-Digest: kgskeHlH7y17l9JtunYwbkufYus=
+
+Name: assets/locations/home/sprites/bubbles/room1wall_3.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal
+ .9.png
+SHA1-Digest: dKIcEa8pKdFs5yfkfZOV6SD1Qvg=
+
+Name: assets/960/splash/en/splash.ext
+SHA1-Digest: IjuQfG7ayoSR75fBByKv4Ye/5dw=
+
+Name: assets/locations/home/sprites/static.bin
+SHA1-Digest: JtUKNM8bHrcKJWhiIbwmQ/iCmgY=
+
+Name: res/drawable/common_google_signin_btn_icon_light.xml
+SHA1-Digest: uIeozJgAZWIsKUtqScMcLzaF4Kc=
+
+Name: assets/960/splash/en/splash.png
+SHA1-Digest: SGP+OPTX9wn3ko6E/sPGNazwC28=
+
+Name: assets/locations/home/sprites/bubbles/water.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/bowl_ice_cream.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/ring.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/bowl_ice_cream.png
+SHA1-Digest: Mo+Fu0eaB1NIigC4UL4nHyoQJRc=
+
+Name: assets/locations/home/sprites/bubbles/room4floor_2.png
+SHA1-Digest: +c7cZNm1bF68sd+Suk6F/AM28a4=
+
+Name: assets/locations/home/sprites/bubbles/owl.png
+SHA1-Digest: NZ5ptpHQAWMQZzs95yoMYKnaEqE=
+
+Name: assets/480/icons_store/icons_shop_garden.bin
+SHA1-Digest: QOaxk/flMmANpOxApsAgXKVvqrA=
+
+Name: assets/480/gui/icon_minigame.bin
+SHA1-Digest: CmESNcztzhe/t4e5F8wsTb9LBro=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_disab
+ led.9.png
+SHA1-Digest: MgWZDNe7Li5Ae6XULZm4fW9SlGo=
+
+Name: assets/locations/home/sprites/bubbles/room4floor_2.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/sounds/ufo-go2.wav
+SHA1-Digest: FRYQzcdapJ1Lf9xABBkGmDV2ISk=
+
+Name: assets/960/icons_store/icons_shop_garden.bin
+SHA1-Digest: d07WXY7BFz/FoE/ztUEE2DuMwfE=
+
+Name: assets/locations/home/sprites/bubbles/owl.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/sounds/fly.wav
+SHA1-Digest: EcM7VBDagHjCdzMTJcU4EbEQFUk=
+
+Name: assets/locations/home/sprites/bubbles/bowl_milk.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_light_disable
+ d.9.png
+SHA1-Digest: e5sAcvCut6H6EMW0EnTfHFeDLt4=
+
+Name: assets/sounds/ufo-go1.wav
+SHA1-Digest: BwFn3j+hRDi5dZ7zFlzhqRV5iaI=
+
+Name: assets/locations/garden/sprites/static2.png
+SHA1-Digest: 1+n/ZqFDqasYzyJZGDgoRhZVcE0=
+
+Name: assets/640/icons_store/icons_toys.bin
+SHA1-Digest: XPul38Ceu0uxFF5pfYmVerwgFA0=
+
+Name: assets/320/gui/gui.bin
+SHA1-Digest: 4GPxXl2RPkrvihbC2xeV/8ekMxY=
+
+Name: assets/temp/tmp8.dat
+SHA1-Digest: P1fDGANsb9YmSEC/8FRmpN3g7Us=
+
+Name: assets/480/splash/en/splash.ext
+SHA1-Digest: +2UEOm/IDKlFFeJSguOBjggJIFE=
+
+Name: assets/sounds/mew_fish3.wav
+SHA1-Digest: byHIERiNoFLnNGjoFO5+JEZR8js=
+
+Name: assets/cat/cat_mask.png
+SHA1-Digest: NCAuoqDbw1fD9KQTHjsKcbQXpQk=
+
+Name: assets/locations/home/sprites/bubbles/bowl_hot_dogs.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/sounds/pm_catch.wav
+SHA1-Digest: YRp4Xr/yyvTsZPWxhR/jLNNWX7s=
+
+Name: assets/locations/home/sprites/bubbles/shampoo.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/logo/480x480.jpg
+SHA1-Digest: WW9CMMhOosshCBIn42k9MP1nNHw=
+
+Name: assets/480/splash/en/splash.png
+SHA1-Digest: xqXHq8cnI8FZLPgGmX7/2lOUOvM=
+
+Name: assets/locations/home/sprites/bubbles/tubom.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/bowl_pill.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/pig.png
+SHA1-Digest: MF6dWHoNpmbnDX/edNBVHNC9DPI=
+
+Name: assets/1280/minigames/memory/memory.png
+SHA1-Digest: 83aPsfB5GOl7feXwK/V4vbhRvJo=
+
+Name: assets/320/gui/flash_gui.bin
+SHA1-Digest: DYm3viElIfH/s4CxyUlTNew0+74=
+
+Name: assets/Icon-60@3x.png
+SHA1-Digest: 8jPSW57Pr35bubufgTUIcPlEslU=
+
+Name: assets/iTunesArtwork.png
+SHA1-Digest: kEBCCdbgo8KMEFlEw8Rfuf5tRYA=
+
+Name: assets/locations/home/sprites/bubbles/tubom.png
+SHA1-Digest: BHzQuMeZ+G3QH/QtNMRUa7o580s=
+
+Name: res/drawable/tw_widget_progressbar_effect_holo_light.png
+SHA1-Digest: JkhSS7v7PeNan+dwICRYzen/dW4=
+
+Name: assets/locations/home/sprites/bubbles/flower.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/pig.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/1280/minigames/memory/memory.ext
+SHA1-Digest: uqcq+EiAOtUNQq5ackaTDzib0Lw=
+
+Name: assets/sounds/item_drag.wav
+SHA1-Digest: 1dx48eCSHC8gXPVp0jMV+TceDLg=
+
+Name: assets/locations/home/sprites/bubbles/flower.png
+SHA1-Digest: Z/oPWBK0AvUmb5KuvNvAhaIQGzw=
+
+Name: assets/shaders/gui.group.bin
+SHA1-Digest: W+zm3UIkwGicsShb7AQPG2/MzyU=
+
+Name: assets/locations/garden/sprites/bubbles/ship.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/sparkler.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: res/drawable-mdpi-v4/tw_widget_progressbar_holo_light.png
+SHA1-Digest: F0s1AhgRvHgSL8MlR7Vli3yUSCk=
+
+Name: assets/960/minigames/flappycat/flappycat.png
+SHA1-Digest: Zyv/JkmWALx8AIOb3hsYXeQM2tk=
+
+Name: res/drawable-mdpi-v4/notif_icon.png
+SHA1-Digest: UdATy2C+qjSc+sDwzyMgoE3q+7Y=
+
+Name: assets/locations/home/sprites/bubbles/sharpener.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/960/minigames/flappycat/flappycat.ext
+SHA1-Digest: hZ1F/18fSMMDPzYO1d6tTOVWH6Q=
+
+Name: assets/sounds/bird_cry4.wav
+SHA1-Digest: 1ljeYDd8Mpl6Ur3WEYFMgJQ5kRg=
+
+Name: assets/sounds/drum.wav
+SHA1-Digest: TJJOvC7a2cvs4VcUXQP9HA1Z+8Q=
+
+Name: res/color/common_google_signin_btn_text_dark.xml
+SHA1-Digest: dSxdQKroPEionaPlPQACioQrINk=
+
+Name: assets/sounds/crash_2.wav
+SHA1-Digest: wVyD1c+ElundcouIJM1pu0Agono=
+
+Name: assets/locations/home/sprites/bubbles/room3wall_3.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/sounds/zavod.wav
+SHA1-Digest: GdMDTZt+5vdYRpss7TB1svmSrnI=
+
+Name: jsr305_annotations/Jsr305_annotations.gwt.xml
+SHA1-Digest: qleKQAEaDWtvjqExBwBTQxblfek=
+
+Name: assets/sounds/plate2.wav
+SHA1-Digest: DxnKfeAwNn3+ZdZPhe2P7Qstkfc=
+
+Name: assets/locations/home/sprites/bubbles/curtains_3.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/sounds/fill_water.wav
+SHA1-Digest: HjBdoWq+Wk080MHShx1GEXRaKiU=
+
+Name: assets/locations/home/sprites/bubbles/room4floor_3.png
+SHA1-Digest: KyWOZb7er1w7oKZ2+/Ze+2Cp9H8=
+
+Name: assets/locations/home/sprites/bubbles/ball2.png
+SHA1-Digest: /oS9pTlp5xJfcULl/dBmJCs04u0=
+
+Name: assets/locations/home/sprites/bubbles/belt.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: res/drawable-mdpi-v4/tw_widget_progressbar_effect_holo_light.png
+SHA1-Digest: JkhSS7v7PeNan+dwICRYzen/dW4=
+
+Name: res/drawable/btn_ad_bg.xml
+SHA1-Digest: 5PP4FP0pH2thzYyDhFED7h8joWc=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal.
+ 9.png
+SHA1-Digest: W68ThGWwLWd1YHH+LNQcVzBLES0=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_light_pressed
+ .9.png
+SHA1-Digest: l4hOf2PQjAma4dDfgcEDCthD1Ng=
+
+Name: assets/locations/home/sprites/bubbles/room4floor_3.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/toy_rabbit.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/room3floor_3.png
+SHA1-Digest: AVmOYrD8zocVPNy9DMzFhxiFQTg=
+
+Name: assets/locations/home/sprites/bubbles/bottle_milk.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: lib/arm64-v8a/libs3e_android.so
+SHA1-Digest: W+iGlJhy6tpIC6cBDvrr2WVFa6w=
+
+Name: assets/locations/home/sprites/bubbles/ball2.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/room3floor_3.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/sounds/water_fall_stop.wav
+SHA1-Digest: bYoZMjtWxTRyxZfnYbLB+s1VyEo=
+
+Name: assets/locations/home/sprites/bubbles/tank.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: res/anim/advertisement.xml
+SHA1-Digest: sDtg3dj0FDdutIFkgPZm3bmpTLY=
+
+Name: assets/sounds/mew_fyrk.wav
+SHA1-Digest: KMM2Oro16Z1z5uHJ1cKMlCA30UY=
+
+Name: assets/locations/home/sprites/bubbles/room1floor_2.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/garden.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/bowl_gamebird.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/bowl_basket.png
+SHA1-Digest: B9pjpOeu7rIR00vljkImE3+/VCY=
+
+Name: assets/js/mraid.js
+SHA1-Digest: y3eH38xC07zjySWzUe0wTRKhg5I=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_pressed
+ .9.png
+SHA1-Digest: Z47Ytqk1ljeVWpMZQ9eu2WmC2h4=
+
+Name: assets/locations/home/sprites/bubbles/belt.png
+SHA1-Digest: Vj9gNEgcxhDIWDyOzB9hn2Keocc=
+
+Name: assets/locations/home/sprites/bubbles/bowl_fizzy_water.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_light_disabl
+ ed.9.png
+SHA1-Digest: 57iMngghSSeK35fXJXF7KvHkbIg=
+
+Name: assets/locations/home/sprites/bubbles/bowl_cocktail.png
+SHA1-Digest: JSEpmEfC3bwmG4iIG3wVhzWuhXI=
+
+Name: assets/1280/minigames/match3/bejeweled_units.bin
+SHA1-Digest: Fker8WqBJm1RwHKF2yW4bwejZ0c=
+
+Name: assets/1280/splash/ru/splash.ext
+SHA1-Digest: v0+ujw9j9V7N5ZZlppBWi2Qn6JM=
+
+Name: assets/320/minigames/flappycat/flappycat.ext
+SHA1-Digest: UztD/nVxTZ1raPIpiA8FqDPZRFU=
+
+Name: assets/960/gui/cat.bin
+SHA1-Digest: GOCJlmdFETfAccvCIuNmYFgrQiw=
+
+Name: assets/locations/home/sprites/bubbles/bowl_cocktail.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/bowl_cake1.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/vase.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/bowl_gamebird.png
+SHA1-Digest: qzZenoGu3f+5ULtu91KJbA1ip/8=
+
+Name: assets/1280/gui/achievement.bin
+SHA1-Digest: HnTOOKqeZQ9x3Y3jjGMyjOgmXZU=
+
+Name: assets/960/gui/gui.bin
+SHA1-Digest: mNG1BeGaFoBw+RcqzEoUAimo3I0=
+
+Name: assets/320/minigames/flappycat/flappycat.png
+SHA1-Digest: V9pevuaAEdavqvGbZ+phrdvqn1k=
+
+Name: assets/locations/home/sprites/bubbles/clew.png
+SHA1-Digest: SecO0CnPKHRJ05/NlPnhocgjMk8=
+
+Name: assets/locations/home/sprites/bubbles/clock.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/js/closebutton.html
+SHA1-Digest: HNKUUr65xvF43DhYePNX2XJIC0A=
+
+Name: assets/sounds/plate5.wav
+SHA1-Digest: a0oMu5oMDdBn4SCE5wRSJcXXmMo=
+
+Name: assets/locations/home/sprites/static2.bin
+SHA1-Digest: lzwjjiop/pHARJ+5cYoCVIXgj6o=
+
+Name: lib/armeabi/libs3e_android.so
+SHA1-Digest: xvVdtxAdx3oVgwE3A7JgOQD2GoE=
+
+Name: assets/1280/minigames/flappycat/flappycat.bin
+SHA1-Digest: 4HcXgJkTxlP40oFqwZqkI9hSTtU=
+
+Name: assets/locations/home/sprites/bubbles/clew.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/temp/tmp5.dat
+SHA1-Digest: hsnLnTh7eDUzJFRnvfPBF1nJqEs=
+
+Name: assets/1280/splash/ru/splash.png
+SHA1-Digest: JxC2U5/sVGDWCEn1mhc5zzMnjFU=
+
+Name: assets/480/icons_store/icons_repair.bin
+SHA1-Digest: stGzeFBKafsZlHUYqwaIE9IcQ6w=
+
+Name: assets/locations/home/sprites/bubbles/bowl_cake1.png
+SHA1-Digest: rKbEKZfrd0rWKFq+1QIZxK5S9Ok=
+
+Name: assets/locations/home/sprites/bubbles/curtains_2.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/garden/sprites/bubbles/gnome.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/static3.bin
+SHA1-Digest: TwItQQyDJ/QyaXK5A8Ze7bZGQwI=
+
+Name: assets/sounds/step_wood1.wav
+SHA1-Digest: AWCkiB/3c5oFWRPJ2icYYQmiQEI=
+
+Name: assets/locations/home/sprites/bubbles/helicopter.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/1280/icons_store/icons_toys.png
+SHA1-Digest: Fffe/lw1GdHcCMPNIJLCIk6UKAw=
+
+Name: assets/sounds/plate3.wav
+SHA1-Digest: Kf62TUyXuocmgwI4m+4pOEQq4tY=
+
+Name: lib/armeabi/libs3eAppodealAds.so
+SHA1-Digest: or6rWwwTbdsWjRp0g3XKt1LlpXU=
+
+Name: assets/sounds/mau_male3.wav
+SHA1-Digest: rk6PZh8adNANutXbgrvqtDDmLR0=
+
+Name: assets/1280/icons_store/icons_toys.ext
+SHA1-Digest: 9wyQLeGaDjWQxf3ujWk1XgG+buw=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal.9
+ .png
+SHA1-Digest: b9G5LhyMfLbYSUqr6XnKfPsGw70=
+
+Name: assets/locations/home/sprites/bubbles/bowl_broth.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/640/splash/ru/splash.png
+SHA1-Digest: pU9cy806ieikG17fyfT/U7KrzvI=
+
+Name: assets/locations/garden/sprites/bubbles/tent.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: res/drawable/icon.png
+SHA1-Digest: KIIDtMWgZKkHlWll1qt/QIr5z2M=
+
+Name: assets/640/splash/ru/splash.ext
+SHA1-Digest: vW0TP5IPaqw5SoH0Owo/wQYM6J8=
+
+Name: assets/locations/garden/sprites/bubbles/tent.png
+SHA1-Digest: 6t4eZwvW29fJe0Qz05zzB5/Z+jo=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal.
+ 9.png
+SHA1-Digest: vKOIeJu8N7w/3us3rCupC1YrXlY=
+
+Name: assets/960/minigames/match3/bejeweled_units.bin
+SHA1-Digest: cTPC0MLUAhSppxl3WnspJyywUvU=
+
+Name: assets/vg_cta_disabled.png
+SHA1-Digest: v8Iim7wfMOn1YX3/+LR4zkG/hUY=
+
+Name: assets/Icon-Small-50.png
+SHA1-Digest: 3xOkUV8sIBJErSgl6mTHCl5wB+A=
+
+Name: res/drawable/ico_cm.png
+SHA1-Digest: xn8AGfprJPOBed9US5R5H6vEinQ=
+
+Name: assets/480/icons_store/icons_toys.bin
+SHA1-Digest: 93i/s235PxEkaMQ26boQ+6fC4Jk=
+
+Name: assets/640/icons_store/icons_service.bin
+SHA1-Digest: PD6HsoERtTa2G9tYqdRiANfVhxY=
+
+Name: assets/1280/splash/en/splash.png
+SHA1-Digest: 3OmruUS3qJkypC/Y25GtsqEp2Ug=
+
+Name: assets/locations/home/sprites/bubbles/bowl_porridge.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/logo/640x640.jpg
+SHA1-Digest: lCKuQie4JZf0aU0CE7p2kZQwfM0=
+
+Name: assets/locations/home/sprites/bubbles/penguin.png
+SHA1-Digest: S1nDpKiQ3eGgrf+U6+mQ30kbxz4=
+
+Name: assets/locations/home/sprites/bubbles/cat_litter.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/sounds/cat_mewing.wav
+SHA1-Digest: ok8MOXxJ3kTP/WAbiM1iuHREk+Y=
+
+Name: assets/sounds/water_fall_start.wav
+SHA1-Digest: Vque/S482yD8yJM82dNpaGUWLzU=
+
+Name: assets/1280/gui/cat.png
+SHA1-Digest: 1cW78+PGZ9sWbFU6Tq6emvbWTEE=
+
+Name: assets/1280/splash/en/splash.ext
+SHA1-Digest: v0+ujw9j9V7N5ZZlppBWi2Qn6JM=
+
+Name: assets/locations/home/sprites/bubbles/cat_litter.png
+SHA1-Digest: 5uT3ddtpAkgRN6Sk+6PmpU+KZh4=
+
+Name: assets/sounds/msg_bad.wav
+SHA1-Digest: XB0setQkMGjweh+XbedZafWL9DI=
+
+Name: assets/locations/home/sprites/bubbles/room2wall_3.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/bowl_eskimo.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/bowl_tablet.png
+SHA1-Digest: 0bTbleIoEJviZHVlGBZSSJw69ck=
+
+Name: assets/locations/home/sprites/bubbles/penguin.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/1280/gui/cat.ext
+SHA1-Digest: aWd8fKrYZvpEe6nOWspuwESAxQM=
+
+Name: assets/480/gui/cat_choise.ext
+SHA1-Digest: PNDOi0Hlp20GSe5fqjqLtvL+XO4=
+
+Name: assets/sounds/car-go2.wav
+SHA1-Digest: M2pfTfJEzcrNuA9TWel6RKragoU=
+
+Name: assets/locations/home/sprites/bubbles/bowl_cocoa.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/480/gui/cat_choise.png
+SHA1-Digest: WNgBjk6EniT8vChiF6UiHpQpKvY=
+
+Name: assets/locations/home/sprites/bubbles/bowl_porridge.png
+SHA1-Digest: +aWsVeHtsorZe08jR2TlzRnPUbU=
+
+Name: assets/locations/home/sprites/bubbles/bowl_cocoa.png
+SHA1-Digest: a/GBLvIboatRKHQR4fWcs3pANdg=
+
+Name: assets/locations/home/sprites/bubbles/room3wall_2.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/sounds/mau_male4.wav
+SHA1-Digest: wcy3F+jxME4T/fXrcXIcFXS9t+A=
+
+Name: assets/1280/icons_store/icons_food.bin
+SHA1-Digest: NChJR7lHO2vFyALCXJBLeH6bbdM=
+
+Name: assets/640/gui/cat_mask.png
+SHA1-Digest: oshAL/APOImDP8H4L7pu+n3wBuk=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal.
+ 9.png
+SHA1-Digest: Hb6MgqhWpoOmdUTygaGRcKTLi3c=
+
+Name: res/drawable/vast_install.png
+SHA1-Digest: 3ACT/aCV6cWlcnpOAPlV1N1bivw=
+
+Name: assets/locations/home/sprites/bubbles/bowl_cake2.png
+SHA1-Digest: TKRdStIW1B3LIF+PLH1QnBrzonE=
+
+Name: assets/320/minigames/match3/bejeweled_units.ext
+SHA1-Digest: 2GmzHZOc1eX7hb0hJBxjQHCG/5E=
+
+Name: assets/locations/home/sprites/bubbles/candle.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/garden/sprites/bubbles/water.png
+SHA1-Digest: o/wvaGJAXese4P4XQUuG1KkvDvg=
+
+Name: assets/locations/home/sprites/bubbles/bowl_cake2.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/bowl_tablet.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/room1floor_3.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/temp/tmp6.dat
+SHA1-Digest: 3LXVo3W9vp7arzOGpMbLuXpElS4=
+
+Name: assets/320/minigames/match3/bejeweled_units.png
+SHA1-Digest: YZHmzWBEivH/VY6dOWMh/1yWDbU=
+
+Name: assets/locations/garden/sprites/bubbles/water.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/960/gui/achievement.bin
+SHA1-Digest: tGgCAwmiYP+fJGK4jrs/beN7wt4=
+
+Name: assets/locations/home/sprites/bubbles/hair_brush.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: lib/armeabi/libs3eFlurry.so
+SHA1-Digest: 7xYDjooQHB9L2915vB2czBCZ8LI=
+
+Name: assets/temp/tmp4.dat
+SHA1-Digest: JptazuAPhkSKx7Hpe6lLZ9m8YXk=
+
+Name: res/layout/activity_picks_loading.xml
+SHA1-Digest: 10DNq9+SZKnf2jERAZtpi6nge00=
+
+Name: assets/sounds/car-go.wav
+SHA1-Digest: nhW5c2RGOMoa+qvBsfXaBhKIugI=
+
+Name: assets/sounds/mouse.wav
+SHA1-Digest: GHffVl16kd2YyKDeg2F4U3Li7aI=
+
+Name: assets/sounds/msg_good.wav
+SHA1-Digest: F7YQwC3BoFxSohF64R7dKwhTZv4=
+
+Name: assets/480/gui/flash_gui.ext
+SHA1-Digest: IiUAoi/5yqRV4ZDB5op7u8jvQAA=
+
+Name: assets/locations/home/sprites/bubbles/flower.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/clock.png
+SHA1-Digest: r2FoQKn7viKQGCpNLOOv/jYu8p0=
+
+Name: assets/locations/garden/sprites/static2.bin
+SHA1-Digest: PHW3Rl3Hye5wmDriWwQlkKhwbB4=
+
+Name: assets/sounds/cat_catch.wav
+SHA1-Digest: nPpfT5jj4/nqa/pWLGwNrI0aXYM=
+
+Name: assets/640/icons_store/icons_food.bin
+SHA1-Digest: f55tRci6RDYNQGPwkndyuu2a43Y=
+
+Name: assets/locations/garden/sprites/bubbles/ship.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/sounds/step_wood2.wav
+SHA1-Digest: dU3chok7L6PBMFnQkePsTboGS54=
+
+Name: assets/locations/home/sprites/bubbles/bowl_omelette.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/sounds/cat_caress2.wav
+SHA1-Digest: 1588QdSUYG7m84MMvKXzs5QPG34=
+
+Name: assets/480/gui/achievement.ext
+SHA1-Digest: r4w4eyjnb3P/AFFCoEABOEFmgoY=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_pressed.
+ 9.png
+SHA1-Digest: 2phsQPMXg+pfp1ogpbFp5OMTCSM=
+
+Name: res/drawable-hdpi-v4/tw_widget_progressbar_effect_holo_light.png
+SHA1-Digest: JkhSS7v7PeNan+dwICRYzen/dW4=
+
+Name: res/drawable/common_google_signin_btn_text_dark_focused.xml
+SHA1-Digest: assWf2MKv+X10kCZUjxJ/LjNm8U=
+
+Name: assets/locations/garden/sprites/bubbles/ship.png
+SHA1-Digest: 5BmwPb1DDvyacXKXnyuqUniPLmM=
+
+Name: assets/locations/home/sprites/bubbles/clock.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/room4wall_1.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/960/minigames/flappycat/flappycat.bin
+SHA1-Digest: CkRB/iS3jSe8UJocJ9nT9N7k6sU=
+
+Name: assets/480/gui/achievement.png
+SHA1-Digest: Gp49ioC5CwewP6f6ZHSBSpLzfH4=
+
+Name: assets/locations/home/sprites/bubbles/bowl_chocolate.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/bowl_compote.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/cat/cat_male.ext
+SHA1-Digest: Y+3landUSYrmCvHAwlqrfefVaOA=
+
+Name: assets/sounds/drop1.wav
+SHA1-Digest: ythksRsgyPdbToTaiP9yxRk9HII=
+
+Name: assets/locations/home/sprites/bubbles/bowl_milk.png
+SHA1-Digest: TCqXAkT7z42fvOoju4sFFosK8t0=
+
+Name: assets/sounds/lvl_lose.wav
+SHA1-Digest: rg973xTGqXQ45OpWdQCPwXNH1qg=
+
+Name: assets/sounds/mm_select.wav
+SHA1-Digest: FF0u1Y3XB79T6aX/JHVWCDoUEVI=
+
+Name: assets/640/icons_store/icons_toys.ext
+SHA1-Digest: naLmr4jHt79nbDCiO8Ontfnd82g=
+
+Name: assets/locations/home/sprites/bubbles/bowl_milk.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/bowl_bonbon.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/640/icons_store/icons_toys.png
+SHA1-Digest: bY5EIBOTwh17XFGD+WRTJ/9uSy4=
+
+Name: assets/locations/home/sprites/bubbles/curtains_1.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/480/gui/flash_gui.png
+SHA1-Digest: I4Px5i309MHsAE9t3dV/4cHR5jY=
+
+Name: assets/sounds/cat_grumbling_female.wav
+SHA1-Digest: RSKELkwukwucrgQHvRp41FPg2uE=
+
+Name: assets/sounds/main_theme.mp3
+SHA1-Digest: 4xOQqeJCWtEHUxqfQfLfYilVZM4=
+
+Name: assets/cat/cat_male.png
+SHA1-Digest: JRoASdgQ6vhabLu09SsfCv7aIcs=
+
+Name: assets/locations/home/sprites/bubbles/ball2.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/room2wall_2.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: AndroidManifest.xml
+SHA1-Digest: JZs31Bl3oG6wf/aIRtCLW4mnBhk=
+
+Name: assets/locations/garden/sprites/bubbles/food.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/garden/sprites/bubbles/ufo.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/1280/gui/achievement.ext
+SHA1-Digest: jiXeI6TBUKQoftDWmrACmLx+S04=
+
+Name: assets/960/gui/gui.ext
+SHA1-Digest: XCbqthhD6JTTGCDSJ9CdLqXDMaQ=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_light_pressed
+ .9.png
+SHA1-Digest: StQSehtOA5sc/D7y/PEZK/Wt+Q8=
+
+Name: assets/locations/garden/sprites/bubbles/food.png
+SHA1-Digest: +uAUeezvS6NqvzBxnW7FkPC5VVo=
+
+Name: assets/1280/gui/achievement.png
+SHA1-Digest: 25G6bqOrdl14Pj/5nJRg88aYdFw=
+
+Name: assets/960/gui/gui.png
+SHA1-Digest: Oghh3m+sLA+McByco131+JHzrco=
+
+Name: assets/locations/home/sprites/static2.png
+SHA1-Digest: emLIpxtSk7i/1lRIBqQLvk6sLL4=
+
+Name: assets/960/icons_store/icons_repair.ext
+SHA1-Digest: MrBudvmpojqtQ4l3+Hrnscc1vd8=
+
+Name: assets/locations/home/sprites/bubbles/bench_6.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/1280/icons_store/icons_interior.ext
+SHA1-Digest: nIn10mB+Gk4ezL/Buo1bCnFCfJM=
+
+Name: assets/sounds/plate7.wav
+SHA1-Digest: Hm7xuEu0Npto7t1BEhHPVmtKOCw=
+
+Name: assets/locations/home/sprites/static2.ext
+SHA1-Digest: Npsvjdv6IpHtFFcLAw0cI0wWbkE=
+
+Name: assets/960/icons_store/icons_repair.png
+SHA1-Digest: 6m83JOEXrEe7sVZmr7z/waWpFlE=
+
+Name: assets/1280/icons_store/icons_interior.png
+SHA1-Digest: CrNfw3MChfOllaMYwxkMQZLqpPk=
+
+Name: assets/locations/home/sprites/bubbles/bowl_sausage.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/sounds/firework_lighter.wav
+SHA1-Digest: 6n7JLRyd3toIj3/z7NtOvr4UkmE=
+
+Name: assets/locations/home/sprites/bubbles/bowl_dry_food.png
+SHA1-Digest: b/AABNYd+4ji3gUqj2/gUcJAZ68=
+
+Name: assets/960/gui/icon_minigame.bin
+SHA1-Digest: otFwVNDa4ju4QXeGCIAo4iCSvWs=
+
+Name: assets/locations/home/sprites/bubbles/bowl_dry_food.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/dex/flurry.dex
+SHA1-Digest: Ak32DfqjT482+zdEEbzkI0D7oRE=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_disabl
+ ed.9.png
+SHA1-Digest: aXB1WZ3yQ8Bcndz7Mq9HySre+70=
+
+Name: assets/sounds/dance_4.mp3
+SHA1-Digest: WoVkJ9TCmKmGPD89BWZDt9tCGmg=
+
+Name: assets/Icon-76@2x.png
+SHA1-Digest: Wg0cWUxztyOjo2Uk3RwO7m87j/A=
+
+Name: assets/locations/home/sprites/bubbles/spray.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/480/icons_store/icons_interior.ext
+SHA1-Digest: id+H9BxOrnnSDObGPxCajxUmidU=
+
+Name: assets/locations/home/sprites/bubbles/bowl_steak.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/sounds/cat_caress3.wav
+SHA1-Digest: n5c2SvdQlAACIdyuXUrbhsrWgBA=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: /Umd+RP1xHsrEebHA8LGL8/h0S8=
+
+Name: assets/320/splash/ru/splash.bin
+SHA1-Digest: OAinINuaY6ROYDDugUpI662rtNM=
+
+Name: assets/locations/home/sprites/bubbles/bowl_doughnut.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/bowl_steak.png
+SHA1-Digest: I2TZstXjtmuieH++IrUwYorEhmk=
+
+Name: res/drawable-hdpi-v4/notif_icon.png
+SHA1-Digest: TywxEr16egpz6bh0Ha/RsyF3PEc=
+
+Name: assets/320/gui/cat.bin
+SHA1-Digest: WxoMLS9CsAfXYEebGMEpK2e01eM=
+
+Name: assets/temp/tmp3.dat
+SHA1-Digest: EnWIJaXbXk61QdXaCa2loTJXS6A=
+
+Name: assets/locations/home/sprites/bubbles/bowl_coffee.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/320/icons_store/icons_interior.bin
+SHA1-Digest: tSEskowViHnpUPUC6TIp1AsY1Zc=
+
+Name: assets/480/icons_store/icons_interior.png
+SHA1-Digest: 0Q5Nu5yqR5s1rUQsrSMELQDyNK8=
+
+Name: assets/com/tapjoy/res/countdown_image.png
+SHA1-Digest: lMIloUGzrB+5DRkSZ7iqji0ud3o=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_norma
+ l.9.png
+SHA1-Digest: BP/j1fz0QCVrLN8pzcjvv9RMNEE=
+
+Name: assets/locations/home/sprites/bubbles/bowl_coffee.png
+SHA1-Digest: EUaeaJf3Q6bFR0MeS5miKDxeFyc=
+
+Name: assets/sounds/gurgle_1.wav
+SHA1-Digest: zAAYmwfRCv1pqCb5lazHhivacsE=
+
+Name: assets/dex/revmob.dex
+SHA1-Digest: jWYCxRuOWeMViBbu3yk8IMqzop8=
+
+Name: assets/locations/home/sprites/bubbles/player.png
+SHA1-Digest: O32JSJY9501MBGsk66mTVQZVldY=
+
+Name: assets/320/minigames/memory/memory.ext
+SHA1-Digest: Qpmo7QUIGKgylx+4n8NjvikKj7c=
+
+Name: assets/locations/home/sprites/static3.png
+SHA1-Digest: mV33qGlDjBLh2oYYXnS0Bv4R26s=
+
+Name: assets/locations/home/sprites/bubbles/player.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/clock_2.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: res/drawable-xhdpi-v4/notif_icon.png
+SHA1-Digest: 1OIlG5HGC6jlSaOZ9xaSl5EuwU8=
+
+Name: assets/dex/tapjoy.dex
+SHA1-Digest: SOgtkMqOM1ES81ftl9uFVm3OsDc=
+
+Name: assets/320/minigames/memory/memory.png
+SHA1-Digest: jl9xDQM0j4bZ6VhrESvd5XNFvFU=
+
+Name: assets/locations/home/sprites/static3.ext
+SHA1-Digest: e02aTWk3MgHpeKU6roM0ov7P+es=
+
+Name: assets/locations/home/sprites/bubbles/bowl_broth.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/mwm-splash-540.jpg
+SHA1-Digest: vRZINqnY56YhLLol+3ezu1W12tU=
+
+Name: assets/vg_privacy.png
+SHA1-Digest: FjnLt0wFlvZh4nhH25tMJFPPBRg=
+
+Name: assets/sounds/step_wood3.wav
+SHA1-Digest: hSjCuXOAQ9poyj+omy/Z5FeFn0Y=
+
+Name: assets/locations/home/sprites/bubbles/bowl_medicine.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/bowl_broth.png
+SHA1-Digest: A0HvnUqENkC2wDVKAFvHeXXZnDw=
+
+Name: assets/320/gui/achievement.bin
+SHA1-Digest: YQufKBdahf6bW0d5ylaDCZ0g0Us=
+
+Name: assets/sounds/bj_change.wav
+SHA1-Digest: jxx4ofEIKNnytcgrdEZA0dp6W1U=
+
+Name: assets/locations/garden/sprites/bubbles/bowl_water.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/sounds/cat_in_coma.wav
+SHA1-Digest: 24agyzzmazRr4p1+IIj0/zI7FTE=
+
+Name: assets/sounds/parrot_4.wav
+SHA1-Digest: IEkBF0d+/dGXckXZpJ4ulIpSPBU=
+
+Name: assets/640/icons_store/icons_interior.bin
+SHA1-Digest: eIZJ390ksIlwsmCsR/iO3mzHr5k=
+
+Name: assets/locations/home/sprites/bubbles/bench_5.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed
+ .9.png
+SHA1-Digest: fPmD5X73y/qXCvJ2Cqvt4E3OU6w=
+
+Name: assets/960/minigames/memory/memory.png
+SHA1-Digest: i/4uGRnM4qBbKmmyvbX4agTDo2Q=
+
+Name: assets/1280/gui/icon_minigame.bin
+SHA1-Digest: TUefckhYZk1JOCrlsLjjRe1C5gY=
+
+Name: assets/640/splash/en/splash.png
+SHA1-Digest: vIz/Jr3LaDW9CHfaQGatsCS4eLk=
+
+Name: assets/locations/garden/sprites/bubbles/bowl_water.png
+SHA1-Digest: o/wvaGJAXese4P4XQUuG1KkvDvg=
+
+Name: assets/960/minigames/memory/memory.ext
+SHA1-Digest: ioFlfrmoQgXL8vSIKtK4QZPW6mE=
+
+Name: assets/640/splash/en/splash.ext
+SHA1-Digest: vW0TP5IPaqw5SoH0Owo/wQYM6J8=
+
+Name: assets/locations/home/sprites/bubbles/food.png
+SHA1-Digest: P092/g4Kn1NLAMwei5TQWuMk1fQ=
+
+Name: assets/locations/garden/sprites/bubbles/ball1.png
+SHA1-Digest: mAYy5pvvHGReFG0+K0gPKCy29xM=
+
+Name: assets/locations/home/sprites/bubbles/room1floor_1.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/toy_bear.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/room2wall_1.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/960/gui/achievement.ext
+SHA1-Digest: krRKvh8Bi3/Ey9FhoH+k+Gxgqfc=
+
+Name: assets/locations/home/sprites/bubbles/food.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/640/minigames/memory/memory.png
+SHA1-Digest: kSAoQZkx3WY5DVeJgC0B2a5ZIGc=
+
+Name: assets/sounds/car-alarm.wav
+SHA1-Digest: gsfCtyw+le7Qj3n7geV/NmXdZdk=
+
+Name: assets/960/gui/achievement.png
+SHA1-Digest: a88dsCZOamkXS5s+VI7XFQlyTMQ=
+
+Name: assets/640/gui/cat_choise.bin
+SHA1-Digest: qJWGAT0CUj9V54nzq3QOoDQPZEg=
+
+Name: assets/640/minigames/memory/memory.ext
+SHA1-Digest: 2sy5wyXrQDwdqL2HT5wbz+KnRfg=
+
+Name: assets/dex/yandex.dex
+SHA1-Digest: soy4iitLRodr+T8cOx3W1yvIIl8=
+
+Name: assets/sounds/plate6.wav
+SHA1-Digest: cQhORJtKXodGtw7oWVp6gOPLtzk=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_disabl
+ ed.9.png
+SHA1-Digest: H/FphPQvP7MRDwA9c33JDKyJVtY=
+
+Name: assets/locations/home/sprites/bubbles/room3floor_1.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/bowl_tablet.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: res/drawable/img_interstitial_ads_icon.png
+SHA1-Digest: pbprF04I6zcMjcBzUdyFErcC+EU=
+
+Name: res/drawable/common_google_signin_btn_text_light_focused.xml
+SHA1-Digest: 9HI/OMzrX02STW1wdcoYFvzIVo0=
+
+Name: assets/locations/garden/sprites/bubbles/ball1.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/sounds/bj-ukulele.mp3
+SHA1-Digest: QRCFy/2wriedkXQEc3XPaIa9IpY=
+
+Name: assets/sounds/dance_3.mp3
+SHA1-Digest: pmnf6wKrOQJ7W7owM6t9DjYDDYU=
+
+Name: assets/locations/home/map/tileset.xml
+SHA1-Digest: p9v6mAIS5zsHBvicRqfX5mwVwA0=
+
+Name: assets/480/gui/cat_mask.png
+SHA1-Digest: CBpEyDdMFqJkC7CNfkKRbHoFu9I=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_dark_disabled
+ .9.png
+SHA1-Digest: lbX57R0TzlcHAkHT3GttS2+bT5w=
+
+Name: assets/locations/home/sprites/bubbles/bowl_cake2.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/sounds/cat_atack.wav
+SHA1-Digest: GILCpVHOBU2VbjFIiiexY/14ZBE=
+
+Name: lib/armeabi/libs3eAndroidIdentifiers.so
+SHA1-Digest: s7vEEWRebMZT7kYcWlxpokjckCQ=
+
+Name: res/drawable/btnstyle.xml
+SHA1-Digest: 5PP4FP0pH2thzYyDhFED7h8joWc=
+
+Name: assets/locations/home/sprites/bubbles/bowl_mohito.png
+SHA1-Digest: ak7dYKIqyxKQRUFANW8tZppJULg=
+
+Name: assets/960/splash/ru/splash.bin
+SHA1-Digest: nN0IyoG3i9qHPeYA8a7t7sKV+3M=
+
+Name: assets/locations/home/sprites/bubbles/bowl_mohito.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/mewsim_dp_free_rel.s3e
+SHA1-Digest: rREDdnFIgL8AfashlppMNkKvONs=
+
+Name: assets/sounds/misc_paper1.wav
+SHA1-Digest: d56+8aRJc6qYvF8siPlJ2iuGyQk=
+
+Name: res/drawable/icon_170x170.png
+SHA1-Digest: Oo30dMjsiAG1/KU5r6zYy+4BbXU=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_light_pressed
+ .9.png
+SHA1-Digest: tcKpnutDtq0cLY89MOMNYq63koY=
+
+Name: assets/temp/tmp2.dat
+SHA1-Digest: pCdlnyUrxOdwoPw8mnEXK5vEItM=
+
+Name: assets/480/minigames/flappycat/flappycat.bin
+SHA1-Digest: 1WsZZXQnfYrfaw2eWohsrQ7H8+U=
+
+Name: assets/sounds/step_wood4.wav
+SHA1-Digest: rv/qBrogS7Q/TeRqFP0ZMBFzH+Y=
+
+Name: assets/1280/gui/cat.bin
+SHA1-Digest: tacSYeIX42rmDUZReAUH0j48UtA=
+
+Name: res/layout/origin_picks_banner_mid.xml
+SHA1-Digest: 6E98j29atdy1guf6cIdm9mBHxQk=
+
+Name: assets/960/icons_store/icons_toys.ext
+SHA1-Digest: MrBudvmpojqtQ4l3+Hrnscc1vd8=
+
+Name: assets/locations/home/sprites/bubbles/bench_4.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/bowl_caramel.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/sounds/bj_music.mp3
+SHA1-Digest: UbR37Xt8Kg34zfDHvleYo9XVMKQ=
+
+Name: assets/960/icons_store/icons_toys.png
+SHA1-Digest: lqbGRPVxoUT71RNTUDw69usvr2Y=
+
+Name: assets/sounds/cat_itch.wav
+SHA1-Digest: Po5bi7k/mij7XO7FysCdmcdsIRQ=
+
+Name: assets/Icon-60@2x.png
+SHA1-Digest: /xMI1HBeyzKjDAaiEfkp58vbIYc=
+
+Name: assets/sounds/cat_hypnosis.wav
+SHA1-Digest: CQg+Kmb/3EgU+eN0Y0n7MqjiZnQ=
+
+Name: assets/480/splash/ru/splash.bin
+SHA1-Digest: ZJ4n20njmPlKDGGEgJOcxlyDc2o=
+
+Name: assets/640/gui/cat.ext
+SHA1-Digest: R96DFimSr55w7ERqv62JSZP5a6Q=
+
+Name: assets/960/icons_store/icons_food.bin
+SHA1-Digest: TOf7NVkA+ANrFZSYPF+FUSze+Kc=
+
+Name: res/drawable-hdpi-v4/tw_widget_progressbar_holo_light.png
+SHA1-Digest: F0s1AhgRvHgSL8MlR7Vli3yUSCk=
+
+Name: assets/cat/cat_female.bin
+SHA1-Digest: Bg9cRD/Aj1/sJnslwT7gXsr7/0c=
+
+Name: assets/sounds/mau_extra3.wav
+SHA1-Digest: cF4xhZXaT3DfMZGXJrdYkvJ3KNg=
+
+Name: assets/sounds/cat_jump.wav
+SHA1-Digest: dxj/BRkwsnZDV0ydzraYLXJ1vy0=
+
+Name: assets/locations/home/sprites/bubbles/bowl_vitamins.png
+SHA1-Digest: sdsNQkUJZs0bqcnh832vMDG1jD4=
+
+Name: assets/locations/home/sprites/bubbles/bowl_tea.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/1280/gui/cat_mask.png
+SHA1-Digest: 0P4F1GQlScF6BIfa03UlieIZr4U=
+
+Name: assets/locations/home/sprites/bubbles/bowl_vitamins.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/320/icons_store/icons_toys.png
+SHA1-Digest: 2zHcMTHfqL6JRcu+tcbyGEtuRJE=
+
+Name: assets/1280/icons_store/icons_service.bin
+SHA1-Digest: 7pkEP6wngioV+00v0Hw0nHGlU10=
+
+Name: assets/320/icons_store/icons_toys.ext
+SHA1-Digest: XyUt0TMxa1beupkCgP8bBq62Thc=
+
+Name: assets/sounds/cat_eat4.wav
+SHA1-Digest: 14i9T+IMUAvubr13fyrdiDFyf9M=
+
+Name: assets/640/gui/cat.png
+SHA1-Digest: 3/CfV1EMTB+KFKSs7vI3WB8Nu3g=
+
+Name: assets/fonts/i5KbZOKK.ttf
+SHA1-Digest: X0YC0gyaBHkPDOFGnYiHJeEX6mg=
+
+Name: assets/320/icons_store/icons_food.bin
+SHA1-Digest: Wx+36tjuKBaY5Ty8aP8bjHdJcr4=
+
+Name: assets/1280/icons_store/icons_repair.png
+SHA1-Digest: 7PoDrdGOOPNIMyuIVQ2WRGhkpK8=
+
+Name: assets/locations/home/sprites/bubbles/room3floor_2.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/320/icons_store/icons_repair.bin
+SHA1-Digest: LB7yammI53OA5nhZEVzaJuNd7XY=
+
+Name: assets/sounds/dance_2.mp3
+SHA1-Digest: lmgNnFtM6tZBR31siJZ4Ie2K+ns=
+
+Name: assets/1280/icons_store/icons_repair.ext
+SHA1-Digest: 9wyQLeGaDjWQxf3ujWk1XgG+buw=
+
+Name: assets/locations/garden/sprites/bubbles/spot.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: lib/armeabi/libs3eAmazonInAppPurchasing.so
+SHA1-Digest: FJDp1ZOOd8aCJYSTalGEBzqRzBk=
+
+Name: assets/locations/home/sprites/bubbles/cookies.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: res/drawable-hdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: 8fCog9JbAcCYp5djG/tewr7LmNc=
+
+Name: assets/sounds/parrot_3.wav
+SHA1-Digest: UtMuUcAa1kqSnmrfQT18YSOYqhY=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal
+ .9.png
+SHA1-Digest: /qyna22b0UfuR1r/ko6aN1OcROY=
+
+Name: assets/1280/minigames/memory/memory.bin
+SHA1-Digest: B7v+7jaAzSg8el4pxl3HdWid6aw=
+
+Name: assets/locations/home/sprites/bubbles/room2floor_3.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/sparkler.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/bowl_ice_cream.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/sounds/item_switch.wav
+SHA1-Digest: Fjo4z/NlZN4Uar3gP9dCrj7R3E8=
+
+Name: assets/locations/home/sprites/bubbles/toy_cat.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/sounds/cat_caress1.wav
+SHA1-Digest: WMTTTN1LNy7VCdPozZysiSKQ9z8=
+
+Name: assets/logo/1536x1536.jpg
+SHA1-Digest: XvxxAKwHSxEsoqIoAnuzVqEBgd0=
+
+Name: assets/locations/home/sprites/bubbles/sparkler.png
+SHA1-Digest: mAfRW6TrKe42bak4WYG47VdyD4w=
+
+Name: assets/sounds/cat_itch2.wav
+SHA1-Digest: aphDI2U6pE3zN3qCXzGYXj5iMyk=
+
+Name: assets/locations/home/sprites/bubbles/bowl_cheese.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/mwm-splash-240.jpg
+SHA1-Digest: kTL173Zo4x1KT/E8LigkPysdA1s=
+
+Name: assets/locations/home/sprites/bubbles/bench_3.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/480/minigames/memory/memory.ext
+SHA1-Digest: jHQIkPEPHd4EcQgKUOqrEiJRoRE=
+
+Name: assets/locations/home/sprites/bubbles/sunglasses.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/1280/gui/flash_gui.bin
+SHA1-Digest: nyIzbPo76VhU49LiYFspSxWPAn8=
+
+Name: assets/locations/home/sprites/bubbles/bowl_basket.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/bowl_fizzy_water.png
+SHA1-Digest: igTl3f1rfZqf48aR9csNABKbPmE=
+
+Name: assets/locations/home/sprites/static.png
+SHA1-Digest: W6DoJSxHWLlqtnJh6drmcI2klHo=
+
+Name: assets/sounds/mm_enter.wav
+SHA1-Digest: TGJIJRHS01Z3ad1dG/Ne36AC/fg=
+
+Name: assets/locations/home/sprites/bubbles/ring.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/spot.png
+SHA1-Digest: Tr3ZKqxIGCP5U1KA1BZWZfdgLoc=
+
+Name: assets/480/minigames/memory/memory.png
+SHA1-Digest: yfK1OSkqIFQRaDrdxuU4LfyNvII=
+
+Name: assets/locations/home/sprites/bubbles/bowl_fizzy_water.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/room2floor_3.png
+SHA1-Digest: a2pPFUQErD8+ZfIoIwNLJxV+Zgc=
+
+Name: assets/locations/home/sprites/static.ext
+SHA1-Digest: hu3U27EO6xccQCDyzdlMm0Yehes=
+
+Name: assets/temp/tmp1.dat
+SHA1-Digest: /ipb1uoqigx/wboaZDFgnqBknUw=
+
+Name: assets/locations/home/sprites/bubbles/spot.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_dark_pressed.
+ 9.png
+SHA1-Digest: 1UB6PKVRdqcEFc5qAOfH4P8Ubq8=
+
+Name: assets/320/icons_store/icons_service.bin
+SHA1-Digest: yMADcdE4SIRLXPvRSW59kBFribA=
+
+Name: assets/Icon-Small-50@2x.png
+SHA1-Digest: as0eWxYrxB0k2xOHY23cNWXlwak=
+
+Name: assets/sounds/plate9.wav
+SHA1-Digest: PylEtIivvfpdP5p96xcfrrGl+Dw=
+
+Name: assets/locations/garden/sprites/bubbles/fishw.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/static1.png
+SHA1-Digest: mvnyY9ATBNqkdza199gvcj1MmMk=
+
+Name: assets/sounds/plate8.wav
+SHA1-Digest: djv0/EDOxzoRRCYCFnG3ThIzCck=
+
+Name: res/drawable/vast_volume_off.png
+SHA1-Digest: Jd3gzXdSIxrxL2zaH0kfS6VNbMo=
+
+Name: assets/1280/icons_store/icons_shop_garden.png
+SHA1-Digest: 7LmKENiRuSvSX9wad6oZ3MiHekk=
+
+Name: assets/locations/home/sprites/bubbles/ball3.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/static1.ext
+SHA1-Digest: b8oxstj5HB4YlXHVkJswZ60FFhU=
+
+Name: assets/640/minigames/flappycat/flappycat.ext
+SHA1-Digest: G4hh5bLV5RvrZTscUNrWnQlAE/4=
+
+Name: assets/sounds/lvl_win.wav
+SHA1-Digest: 9ZwfanqK6dZ0QSmN7xtHUpNP11Y=
+
+Name: assets/1280/icons_store/icons_shop_garden.ext
+SHA1-Digest: 9wyQLeGaDjWQxf3ujWk1XgG+buw=
+
+Name: assets/locations/garden/sprites/bubbles/flamingo.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/640/minigames/flappycat/flappycat.png
+SHA1-Digest: jhINDduwwzPq3UnMZBFx31oXRoY=
+
+Name: assets/sounds/set_patch.wav
+SHA1-Digest: GysfhUoxC+0tAg9ycKp7tZeu2Tk=
+
+Name: assets/sounds/mew_owl.wav
+SHA1-Digest: jkRT/ResK7CJVEmiCNuvDsb8w8Q=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_disable
+ d.9.png
+SHA1-Digest: 8RhCMjluPXRIovky5gX1EUZxhuk=
+
+Name: res/drawable/vast_stranch.png
+SHA1-Digest: 7QVYlJfseButequ6NrRx1CGu7Cs=
+
+Name: assets/320/gui/gui.png
+SHA1-Digest: w5AuBokziGTxbZTZF25lB8Hyoi4=
+
+Name: assets/480/gui/cat.bin
+SHA1-Digest: ZSsNrmk3k9WyOtfPj6TfDlgm5Q0=
+
+Name: assets/640/gui/cat.psd
+SHA1-Digest: 2Yo1mHoLniRzpW7a4n6P6HwUvIU=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_light_disable
+ d.9.png
+SHA1-Digest: MELhZ5xGLo3hOMEE/RoSVTp7GOM=
+
+Name: assets/320/gui/gui.ext
+SHA1-Digest: kxCVJkV8HsTxFkSSTm1Mwj7Nn24=
+
+Name: assets/sounds/parrot_2.wav
+SHA1-Digest: PDv4CvUkqTpPvcjAklrimuNGQF4=
+
+Name: res/anim/loading_animation.xml
+SHA1-Digest: Sg1QhrlREeZKB312PXx4jc04n2Q=
+
+Name: assets/locations/home/sprites/bubbles/shampoo.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: classes.dex
+SHA1-Digest: nbpmvO6FDBSAO3vRVIC364tK6UA=
+
+Name: assets/locations/home/sprites/bubbles/shampoo.png
+SHA1-Digest: UNyt507wPMyeuuIVvelTEFN21Gk=
+
+Name: assets/sounds/shop_enter.wav
+SHA1-Digest: Xv2vjwzCoQ2yP7m3N0VK7/HwsMY=
+
+Name: lib/armeabi/libs3eSamsungInAppPurchasing.so
+SHA1-Digest: qlpluEpo4l6WK/pBhakUWX01yys=
+
+Name: assets/960/gui/cat.png
+SHA1-Digest: KLYmeAlOc095DgMmRcVNBEKx+pM=
+
+Name: assets/sounds/cat_grill.wav
+SHA1-Digest: ojljh05amOKMwUmC/8rFSq41ykw=
+
+Name: res/drawable-xhdpi-v4/browser_unright_arrow.png
+SHA1-Digest: tAbhRzHLIwvayQvT9O1ceVOlgDA=
+
+Name: assets/locations/home/sprites/bubbles/knot.png
+SHA1-Digest: F/ItpF9g8cfWwCSdFQELvVFkqRk=
+
+Name: assets/sounds/mau_female2.wav
+SHA1-Digest: gszAKOWiU1NDQdg/tL94ei9MWjo=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9
+ .png
+SHA1-Digest: Yaaajh0AXbmjLJOiDxeNBheKc8U=
+
+Name: assets/locations/home/sprites/bubbles/knot.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: res/drawable-xhdpi-v4/browser_refresh.png
+SHA1-Digest: LoXcysgKrK5hitqr/pY6i/W5SK0=
+
+Name: assets/locations/home/sprites/bubbles/bottle_milk.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/garden/sprites/bubbles/nbox.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/bench_4.png
+SHA1-Digest: 4F0wurAd2hqDDSnlLQEuzLvI/Tc=
+
+Name: assets/locations/home/sprites/bubbles/room3floor_3.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: res/drawable/interstital_ad_body_bg.xml
+SHA1-Digest: h6UiGyObT5xRMbeXB55nEb6IHjw=
+
+Name: assets/locations/home/sprites/bubbles/room2floor_2.png
+SHA1-Digest: 4Gg1JC2hUXSHqejRaoP4ZJXs0WQ=
+
+Name: assets/sounds/mau_male_4.wav
+SHA1-Digest: iYVZ/AFph+LngRrUXaBSU7cyI6Q=
+
+Name: assets/locations/home/sprites/bubbles/bottle_milk.png
+SHA1-Digest: 9TNjbcITgP5FTNSKJHRjcernUhs=
+
+Name: assets/sounds/cat_drop.wav
+SHA1-Digest: jfsiwYazNd9NCknptEV/ADpp+oc=
+
+Name: assets/locations/garden/sprites/bubbles/nbox.png
+SHA1-Digest: dWiKQTnfNt5JPwhzBe6pO+9/PfE=
+
+Name: assets/960/gui/cat.ext
+SHA1-Digest: fZJ7H5X9th2X03yHvGIFp0m7JH8=
+
+Name: assets/locations/home/sprites/bubbles/room2floor_2.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/480/minigames/match3/bejeweled_units.bin
+SHA1-Digest: r08oKndlLhsC/hNNR6qYotsdT7M=
+
+Name: assets/goods.xml
+SHA1-Digest: Qb6/WxmHX7lXuNyZbnSuXa28E5Q=
+
+Name: assets/1280/splash/en/splash.bin
+SHA1-Digest: rBPvqHjB0HJy3RxHnG+UOINJ5gM=
+
+Name: assets/1280/gui/icon_minigame.png
+SHA1-Digest: I1T6R2l8TYnRZtPNNzt3Oq1tuVc=
+
+Name: assets/320/icons_store/icons_service.png
+SHA1-Digest: 83eKONZpEqE8dqQ1/CXiWMCTKeE=
+
+Name: assets/dex/avocarrot.dex
+SHA1-Digest: oup2WxKYcox/JCl0/g0SOIfIAoM=
+
+Name: assets/locations/home/sprites/bubbles/sharpener.png
+SHA1-Digest: TxoD26WVvTHc9lkBqlB3C2t+jIo=
+
+Name: assets/locations/home/sprites/bubbles/room3wall_3.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/1280/gui/icon_minigame.ext
+SHA1-Digest: cpQn8LzZI7j0e2WKFGnIWHMytBs=
+
+Name: assets/320/icons_store/icons_service.ext
+SHA1-Digest: XyUt0TMxa1beupkCgP8bBq62Thc=
+
+Name: assets/locations/home/sprites/bubbles/sharpener.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/bench_4.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/room3wall_3.png
+SHA1-Digest: 3rfY1ho0epRTgqcU/XjkBu2Q+Kk=
+
+Name: assets/Icon-Small@3x.png
+SHA1-Digest: GI/BdEoIw1ww4vOjI24+ePYK1L8=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_norma
+ l.9.png
+SHA1-Digest: GFBU1MtrxnqiFzu1VUviSJcYiI0=
+
+Name: assets/locations/home/sprites/bubbles/belt.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/sounds/pig_take.wav
+SHA1-Digest: uLoZk0sxVW5DR5X9sLqar9T8yZ4=
+
+Name: assets/locations/home/sprites/bubbles/bowl_valerianka.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: resources.arsc
+SHA1-Digest: JJjIsFci3P7vNDaiXon6vOwTm3Q=
+
+Name: assets/mwm-splash-320.jpg
+SHA1-Digest: rt1Ih5c4j267+NF8WLM6bFp1MP8=
+
+Name: assets/sounds/bubbles2a.wav
+SHA1-Digest: LqPeJSSwAxMRqQSFWcawZUlE1wQ=
+
+Name: assets/locations/home/sprites/bubbles/room1wall_2.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/1280/icons_store/icons_repair.bin
+SHA1-Digest: EOFxVnvP9luBVY8CmdYEZX3wXV8=
+
+Name: assets/locations/home/sprites/bubbles/bowl_cheese.png
+SHA1-Digest: fh/61Qr8bJYHk3gY7IL/Al22TKg=
+
+Name: assets/locations/home/sprites/bubbles/vase.png
+SHA1-Digest: C1cYHNs/sEbtvBpoeGKdvOv2DPw=
+
+Name: assets/1280/splash/ru/splash.bin
+SHA1-Digest: rBPvqHjB0HJy3RxHnG+UOINJ5gM=
+
+Name: assets/640/splash/ru/splash.bin
+SHA1-Digest: 5XaXXvPZ6EXbMYZh18qSB/yEOmo=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal.
+ 9.png
+SHA1-Digest: avqP5Jr+JRygbHxllR1AQbtpb+g=
+
+Name: assets/1280/minigames/match3/bejeweled_units.ext
+SHA1-Digest: Y6fefQYPQNkMwY3no8d2yYbq1sw=
+
+Name: assets/640/minigames/match3/bejeweled_units.png
+SHA1-Digest: vTmLUxKNEf8Y052cKtCm80Ck7OM=
+
+Name: assets/locations/home/sprites/bubbles/toy_rabbit.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_press
+ ed.9.png
+SHA1-Digest: MTe7g8pRIuxRlzCJPLaJYqof918=
+
+Name: res/layout/gps_dialog.xml
+SHA1-Digest: YlZAgTeKcwi5HvF0tdNtVU/hVfw=
+
+Name: assets/locations/home/sprites/bubbles/bowl_gamebird.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/sounds/misc_paper3.wav
+SHA1-Digest: 810fcfLaOnfdgOGOlJAhgl/Uh6g=
+
+Name: assets/temp/tmp0.dat
+SHA1-Digest: u7OkdLYvYwNQ1tiY9XKCsmVG4r4=
+
+Name: assets/dex/vungle.dex
+SHA1-Digest: EivC8wuugEP1xor5WmyJgxP1t0w=
+
+Name: assets/1280/minigames/match3/bejeweled_units.png
+SHA1-Digest: HAzo/pB7P/zA5VjIutmeum4zY3I=
+
+Name: assets/640/minigames/match3/bejeweled_units.ext
+SHA1-Digest: uxUkfN8dUAi+9bQ6akXIFv5PHNo=
+
+Name: assets/locations/home/sprites/bubbles/toy_rabbit.png
+SHA1-Digest: l3RzDywL/kMwZ9wL5NZlC1PMGqQ=
+
+Name: assets/1280/minigames/flappycat/flappycat.png
+SHA1-Digest: BY+MH6ZJtDwy+ZlOJn/R+C5LgZQ=
+
+Name: assets/sounds/bj_cut.wav
+SHA1-Digest: UvEfLqCdwUKneMdObC/yHJkmmJA=
+
+Name: assets/locations/garden/sprites/bubbles/mush.png
+SHA1-Digest: CtY9lU3KlF/J75sKwkAeRvin0ms=
+
+Name: assets/vg_close.png
+SHA1-Digest: 3Xnnqi2hsqwT1lI7P/bPDCT6Ito=
+
+Name: assets/sounds/cloth_5.wav
+SHA1-Digest: f0hqqe+z6yhtgUBv4mY0WKwFM8U=
+
+Name: assets/1280/minigames/flappycat/flappycat.ext
+SHA1-Digest: jS4sfe5+9pXEEZirlrfkbO2vF+w=
+
+Name: assets/locations/home/sprites/bubbles/bowl_cheese.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/vase.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/garden/sprites/bubbles/mush.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/dex/startapp.dex
+SHA1-Digest: sygN5W+DmHR73a9TtilsiDkgV3M=
+
+Name: assets/locations/home/sprites/bubbles/helicopter.png
+SHA1-Digest: OLmT7msM9JgK7tnE1V88DaqoAnU=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_disabled
+ .9.png
+SHA1-Digest: KFMFQ3Xyx9ZfPf2w1XN1esJ6xBo=
+
+Name: assets/locations/home/sprites/bubbles/helicopter.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/320/icons_store/icons_food.png
+SHA1-Digest: 2EE97ogTf6UAHH+w+7JeGd7KQ34=
+
+Name: assets/locations/home/sprites/bubbles/bowl_coffee.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/sounds/clock.wav
+SHA1-Digest: ldqXHtiLQI7NMXCu7TNGe2w3U78=
+
+Name: assets/320/icons_store/icons_food.ext
+SHA1-Digest: HVLYooEb82b1BHZTLCA5QY2sbYw=
+
+Name: assets/texts_en.txt
+SHA1-Digest: 4cU/SHiFyzN8gDxKDy48niDkYRM=
+
+Name: assets/960/gui/cat_choise.bin
+SHA1-Digest: M7lbbqvVa06Pvm5u+6ivgZI3HPs=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal.9
+ .png
+SHA1-Digest: BtBZbFT3VPvi+qaEJu0REVsW9GQ=
+
+Name: assets/locations/home/sprites/bubbles/bench_3.png
+SHA1-Digest: /L3pitUsi2C7V+FrAoc40XfN1mU=
+
+Name: assets/960/gui/cat_mask.png
+SHA1-Digest: JWiAGU/mjl8bKtI435peZ1G7bW4=
+
+Name: lib/armeabi/libDPMod.so
+SHA1-Digest: bNH7ln1a0z0f3Sa2gMsffNAxF28=
+
+Name: assets/locations/home/sprites/bubbles/clew.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/sounds/back_flappycat.mp3
+SHA1-Digest: oj7uyKd52UPwmhRu49WsVJVfuaI=
+
+Name: res/drawable-xhdpi-v4/browser_right_arrow.png
+SHA1-Digest: ryIYrzX2SPfmvyaG5slMpMGjzxk=
+
+Name: res/drawable/common_google_signin_btn_icon_dark_focused.xml
+SHA1-Digest: l0fipyqsr0hnhqyubQfNYz01Tyg=
+
+Name: assets/locations/home/sprites/bubbles/room1wall_1.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/candle.png
+SHA1-Digest: XhVRoq8zMXiylosh23vk1YJ0htQ=
+
+Name: assets/sounds/mau_female3.wav
+SHA1-Digest: d32aqNmqPfZtiDLI+dZxIFOuwig=
+
+Name: assets/locations/home/sprites/bubbles/spot.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal
+ .9.png
+SHA1-Digest: QLaJ/RR4JVfoHBH6pJAPN0/FEdE=
+
+Name: assets/locations/home/sprites/bubbles/bowl_cake1.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/1280/gui/cat_choise.png
+SHA1-Digest: zB8/K7KiqZPYOx0gNLKCNXtlJvk=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_presse
+ d.9.png
+SHA1-Digest: eKq/DqDx4HHKIqyqalzgBgMY2ww=
+
+Name: assets/1280/gui/cat_choise.ext
+SHA1-Digest: mNPgquDsIDaE5jkWZyNL3//WKjE=
+
+Name: assets/vg_cta.png
+SHA1-Digest: D+8nNDJRsuOj79Uf2hm2FVscQas=
+
+Name: assets/locations/home/sprites/bubbles/bench_3.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/room3wall_2.png
+SHA1-Digest: Dfs5hV7rRW/sFPK/OtUC9+es5UU=
+
+Name: assets/sounds/cloth_4.wav
+SHA1-Digest: jXNNow4iBExkthiSSiWXy3TWDCY=
+
+Name: assets/1280/icons_store/icons_food.png
+SHA1-Digest: pc4gODQa7octzTprr4eQuHqLzJM=
+
+Name: assets/locations/garden/sprites/bubbles/tent.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_press
+ ed.9.png
+SHA1-Digest: fcRHSznS0klBue7f/7VPl7CCnTM=
+
+Name: res/drawable-xxhdpi-v4/icon.png
+SHA1-Digest: kZIrpu31Xvzw+IL6XeWuuAgQkSk=
+
+Name: assets/480/icons_store/icons_toys.ext
+SHA1-Digest: 20OyvGwMiGBqC8DCOUES+pYLeEY=
+
+Name: assets/1280/icons_store/icons_food.ext
+SHA1-Digest: VqBUz7+0V5nS1TezJ/air0Uu7zU=
+
+Name: assets/480/gui/gui.ext
+SHA1-Digest: a6yu8ZdLt9F88pQMjPXSklK8jYU=
+
+Name: res/drawable/common_google_signin_btn_icon_dark.xml
+SHA1-Digest: 3skkvHvtJx5ZJAf3Yq6Km0sbth4=
+
+Name: res/drawable/vast_progress_style.xml
+SHA1-Digest: I5w41nQAVBLFRLqvwYBSReZd2LY=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_light_presse
+ d.9.png
+SHA1-Digest: Fj65pApS3DHAIYkMNsn4lY2X67A=
+
+Name: assets/locations/garden/sprites/bubbles/water.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/480/gui/gui.png
+SHA1-Digest: cHkMVXhIzJW9cSqykXsea+54JQc=
+
+Name: assets/320/minigames/match3/bejeweled_units.bin
+SHA1-Digest: BeU0Bej4EQwBu+GdCH7qsjeSK64=
+
+Name: assets/locations/home/sprites/bubbles/room3wall_2.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/sounds/misc_paper2.wav
+SHA1-Digest: YLtFAQaR/zO7LKb0rjUN9dqrEAc=
+
+Name: assets/sounds/cat_run.wav
+SHA1-Digest: S0NbATloxmHV0Scwip1s+cc/HOY=
+
+Name: assets/320/gui/cat_mask.png
+SHA1-Digest: dMyt3VoxfPtNZyoBsMNmhKNY0/A=
+
+Name: assets/480/icons_store/icons_toys.png
+SHA1-Digest: 9m034Y0JI8kbmgEw/2ygkDUohNM=
+
+Name: assets/locations/home/sprites/bubbles/room2floor_1.png
+SHA1-Digest: j1UmTKkaqLssfNwGDwWcxTHU7Yw=
+
+Name: assets/locations/home/sprites/bubbles/bowl_eskimo.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/penguin.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/scripts/scripts.dnp
+SHA1-Digest: eez5nWJLVDFr/xc78A+8R99TVlU=
+
+Name: assets/sounds/cat_walk.wav
+SHA1-Digest: 5gt1i4erNmGlWzDwRXzfW10m/JE=
+
+Name: assets/locations/home/sprites/bubbles/room2floor_1.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/candle.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: res/drawable/dialog_full_holo_light.9.png
+SHA1-Digest: 1jqAkwBEUfpu5btuB/7S08gCarE=
+
+Name: assets/locations/home/sprites/bubbles/bowl_eskimo.png
+SHA1-Digest: B7SautyPrCLAVpJEraqMqCQkAEQ=
+
+Name: assets/1280/icons_store/icons_shop_garden.bin
+SHA1-Digest: wQ/vm2DQhkEwALR2kQpWop9auoI=
+
+Name: assets/sounds/step_carpet3.wav
+SHA1-Digest: B/3woVHxFs0Afm9OwhQaFG0qgJ4=
+
+Name: assets/640/icons_store/icons_food.png
+SHA1-Digest: HcI2Q2yduvJ0DuDXeByNRwYU4ug=
+
+Name: assets/sounds/pm_die.wav
+SHA1-Digest: UBZaFsnaz5bTuZNFqGDqLjdUxuQ=
+
+Name: assets/com/tapjoy/res/tj_close_button.png
+SHA1-Digest: m97VL++AjPPMWodt3CJ38F4XyBY=
+
+Name: assets/locations/home/sprites/bubbles/bowl_porridge.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_dark_disabled
+ .9.png
+SHA1-Digest: Db9O/OPoWTXYL7sBk/ND4aU7ECs=
+
+Name: assets/640/icons_store/icons_food.ext
+SHA1-Digest: kDFm2zRUUqzGnwozUQ728wUiL5U=
+
+Name: lib/arm64-v8a/libdpAndroidNotifications.so
+SHA1-Digest: GNdpTzmDnqacGmUU4KRjze1pprg=
+
+Name: assets/480/icons_store/icons_service.bin
+SHA1-Digest: R59uZi7tVCggUHI7lZ9boAMOTn8=
+
+Name: assets/cat/cat_8.png
+SHA1-Digest: 4edfzKtSFLoKDiEEn47iS0qHkGI=
+
+Name: assets/320/splash/en/splash.ext
+SHA1-Digest: iL4+BXnVXxL+UGbK4Z8hxuPAtYI=
+
+Name: assets/sounds/cat_wow.wav
+SHA1-Digest: yt/Yhr5pzheiwSQu92bYkz0avKY=
+
+Name: assets/320/icons_store/icons_shop_garden.png
+SHA1-Digest: 2cU+iliVVbxFEEPyNb0bVKRNNpU=
+
+Name: assets/sounds/step_carpet2.wav
+SHA1-Digest: CFoJ1GAhWp4jglJeDpTR1Eb8wiQ=
+
+Name: assets/locations/home/sprites/bubbles/bowl_fish.png
+SHA1-Digest: HmU76vSaKZJbE+VjuFWZjR9e/4w=
+
+Name: assets/locations/home/sprites/bubbles/bench_2.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/320/splash/en/splash.png
+SHA1-Digest: 65ObJp0QPWvHdqiQgoX3nSil69w=
+
+Name: assets/sounds/bubbles1a.wav
+SHA1-Digest: rZPEm2Mb4Ivy8NMScVHcFqfHjs8=
+
+Name: assets/locations/garden/sprites/static.png
+SHA1-Digest: z+oSWdB1hWu/eD8YX4v/N6+vom0=
+
+Name: assets/320/icons_store/icons_shop_garden.ext
+SHA1-Digest: XyUt0TMxa1beupkCgP8bBq62Thc=
+
+Name: assets/locations/home/sprites/bubbles/bowl_fish.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/sounds/tank-go.wav
+SHA1-Digest: yEyrANzbzm0JhoS/49P0jEvLGGw=
+
+Name: assets/sounds/mew_claw1.wav
+SHA1-Digest: chjOzdVrOI0YCzO3hu200cFCXDM=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_disabled
+ .9.png
+SHA1-Digest: XDsh/LanVTEuOq61G/pr8afDNcQ=
+
+Name: assets/iTunesArtwork@2x.png
+SHA1-Digest: Q9UhliRBzP1A6sWLrFqSPWTVpsE=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_pressed
+ .9.png
+SHA1-Digest: yL3BEjoZFVrHSDq3W5KlS0UBvSI=
+
+Name: assets/960/gui/flash_gui.png
+SHA1-Digest: HJa9lK3nsLCDWj61/KAaP4j/u4M=
+
+Name: assets/locations/home/sprites/bubbles/mirror.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/garden/sprites/static.ext
+SHA1-Digest: Mmq+SjNTz3JhrtD0lGi3I+JOGgY=
+
+Name: assets/locations/home/sprites/bubbles/toy_doll.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/960/gui/flash_gui.ext
+SHA1-Digest: yCrEJ0GbJONTuGqfBzWucEpcEwg=
+
+Name: assets/locations/home/sprites/bubbles/books.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/bench_2.png
+SHA1-Digest: 0+PmSWoEErcfFCDlqOAVc4bHVpU=
+
+Name: assets/sounds/gurgle_2.wav
+SHA1-Digest: Oejx5COtbwLGe6tqSmDtme0ss9g=
+
+Name: res/drawable/ico_banner_mid_cm.png
+SHA1-Digest: 8Jeakj108LvvWchE2W+2eFGRa8U=
+
+Name: assets/1280/icons_store/icons_interior.bin
+SHA1-Digest: J8nCBsxSNo3uOjylf7ZE0edBzqE=
+
+Name: assets/locations/home/sprites/bubbles/books.png
+SHA1-Digest: Kquz2Afip+zAcbn7rJiR+j40gLY=
+
+Name: assets/locations/home/sprites/bubbles/room4wall_3.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/mirror.png
+SHA1-Digest: E+nJLIl7lmB0ftojU2le2BwO3jY=
+
+Name: assets/locations/home/sprites/bubbles/lamp.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/bowl_canned_food.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: lib/arm64-v8a/libs3eAndroidIdentifiers.so
+SHA1-Digest: 7nxdy5nC+vmFP+1nFMR1oDhGPGs=
+
+Name: assets/640/icons_store/icons_shop_garden.ext
+SHA1-Digest: naLmr4jHt79nbDCiO8Ontfnd82g=
+
+Name: assets/sounds/ball.wav
+SHA1-Digest: o6+mBnMF4OIHQ+ulsRBxcrOv+mM=
+
+Name: assets/locations/home/sprites/bubbles/bowl_omelette.png
+SHA1-Digest: tINpR9vyQlZqDIM+4B7+dx7yWiQ=
+
+Name: assets/locations/home/sprites/bubbles/bowl_dry_food.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/lamp.png
+SHA1-Digest: /EZRfskp07mviqrSbehqGNQciFI=
+
+Name: assets/locations/home/sprites/bubbles/mouse.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_presse
+ d.9.png
+SHA1-Digest: xZRteKqA5SUTkatnOvxZNLFrzEc=
+
+Name: assets/640/icons_store/icons_shop_garden.png
+SHA1-Digest: 2UKKboNSLn42dVJ6wyFph8oLc7Q=
+
+Name: res/drawable/progressbar_middle.xml
+SHA1-Digest: T4hu4HUAak12/2KiwdgJaklTC8o=
+
+Name: assets/sounds/ship-bell.wav
+SHA1-Digest: G8VipKSJKPs5IO8Z1n3U19SQKBw=
+
+Name: assets/locations/garden/sprites/bubbles/ladybird.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/shaders/gui.itx
+SHA1-Digest: PrHUhz8YfgriT7k/IT4vt9WsyMk=
+
+Name: assets/sounds/dance_6.mp3
+SHA1-Digest: KUzVeaDL1v0cykcXPlvHI49fB20=
+
+Name: assets/640/gui/achievement.bin
+SHA1-Digest: 8rKdKqHoP3frffrNWpsfwU6dAn0=
+
+Name: assets/sounds/car-crash.wav
+SHA1-Digest: D/6S7R14BqZPolNldLldJ+mIEow=
+
+Name: lib/armeabi/libs3eAndroidGooglePlayBilling.so
+SHA1-Digest: xknr5a8SDiTbD1INpzAGaOKvtoY=
+
+Name: assets/sounds/gurgle_5.wav
+SHA1-Digest: 3+NQ/wdAeR/Pd7TtcbHgVIQyxrw=
+
+Name: assets/480/icons_store/icons_food.bin
+SHA1-Digest: abaSgvrlUI5G4WUWQ8ldDs4Axq8=
+
+Name: assets/locations/garden/sprites/bubbles/food.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_disable
+ d.9.png
+SHA1-Digest: lWGz9pmUk6lcLBiS+tgQY4zTp6M=
+
+Name: assets/locations/home/sprites/bubbles/clock_2.png
+SHA1-Digest: 7glhLd33/xHwBHZ9VJrHB56rUSQ=
+
+Name: assets/sounds/misc_paper5.wav
+SHA1-Digest: imuZF1bGc4nEtMaRSDhlezPLMbc=
+
+Name: assets/locations/garden/sprites/bubbles/jeep.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/bowl_omelette.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/pig.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/sounds/mau_female1.wav
+SHA1-Digest: 3VctNW5mF4XNcyazCZECYw2Zayc=
+
+Name: assets/sounds/mew_claw2.wav
+SHA1-Digest: XyLELq0q+INq7DLM8j4MooX3/6k=
+
+Name: assets/locations/home/sprites/bubbles/room4wall_2.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/sounds/item_drop.wav
+SHA1-Digest: ok0KvIz17l4Vu/07SM04SVGgXt8=
+
+Name: assets/480/icons_store/icons_shop_garden.ext
+SHA1-Digest: 20OyvGwMiGBqC8DCOUES+pYLeEY=
+
+Name: assets/locations/home/sprites/bubbles/hamster.png
+SHA1-Digest: aADjp1uY/scdxOWKWeRSXixMDKQ=
+
+Name: assets/locations/home/sprites/bubbles/tubom.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/sounds/cat_drop2.wav
+SHA1-Digest: zTCcdhZ7mhC86v5ob/4k0BSP8L4=
+
+Name: assets/locations/home/sprites/bubbles/bowl_medicine.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/clock_2.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/bench_1.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/480/icons_store/icons_shop_garden.png
+SHA1-Digest: QKf/Dxg0DECRkKBNuoK/s0WE6w0=
+
+Name: assets/sounds/karate.wav
+SHA1-Digest: QJ3MVAOVSHIHr13BSww/9MW/clM=
+
+Name: assets/320/gui/achievement.ext
+SHA1-Digest: K90mip8Vb64MI4dC2M/LUiRWny8=
+
+Name: assets/locations/home/sprites/bubbles/bowl_medicine.png
+SHA1-Digest: +/HY9dAZcypY1pO+298HduUW3H0=
+
+Name: assets/mwm-splash-768.jpg
+SHA1-Digest: eWyuXktOW1VuCsnasA3E16ebpD8=
+
+Name: assets/sounds/step_carpet1.wav
+SHA1-Digest: vluQkUGRqQxRI1V7OD1k9hKbZo0=
+
+Name: assets/320/gui/achievement.png
+SHA1-Digest: 6i0yfDDmgDA0xN5xg4pepsosHoI=
+
+Name: res/drawable/common_google_signin_btn_icon_light_focused.xml
+SHA1-Digest: GrtUDOgd2HM1JC1onztdbU8Kcrs=
+
+Name: assets/sounds/click.wav
+SHA1-Digest: qY2ll8cR6dVw4pbOD/mSXSLBoX0=
+
+Name: assets/locations/home/sprites/bubbles/bench_1.png
+SHA1-Digest: ATYoTZdAYnclOJ8JrHSQrOrcrbc=
+
+Name: res/drawable/notif_icon.xml
+SHA1-Digest: Osa2taEf7FE5teAbUguxIb5ta6g=
+
+Name: assets/locations/home/sprites/bubbles/room1wall_3.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: res/layout/progress_dialog.xml
+SHA1-Digest: 2FEzFbwFpoblE0rCWggjzoZw8lM=
+
+Name: assets/sounds/main-buddy.mp3
+SHA1-Digest: fM02DfjqcIrXKIEOsugF0utezm8=
+
+Name: assets/320/splash/ru/splash.ext
+SHA1-Digest: iL4+BXnVXxL+UGbK4Z8hxuPAtYI=
+
+Name: res/drawable/vast_close.png
+SHA1-Digest: j13kqoKVLuhqGS7Rap9f4765I6s=
+
+Name: assets/locations/home/sprites/bubbles/hamster.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/particles/flash.png
+SHA1-Digest: LdNf4NMPazSRjBbz87cxSVP/P8w=
+
+Name: assets/sounds/drop2.wav
+SHA1-Digest: bBuoDiHUtkVmWHdaJRYsrtcwhRs=
+
+Name: assets/320/splash/ru/splash.png
+SHA1-Digest: Yfn8/nH4DOFbKVblxjmuVZUD8+U=
+
+Name: assets/locations/particles/flash.ext
+SHA1-Digest: IiUAoi/5yqRV4ZDB5op7u8jvQAA=
+
+Name: assets/sounds/dance_5.mp3
+SHA1-Digest: 9N9xxprCDVf8OowMKIlaT+oAYec=
+
+Name: lib/arm64-v8a/libs3eAppodealAds.so
+SHA1-Digest: 6z2zVZaYG0LvRnIshqHIirOOd50=
+
+Name: assets/locations/home/sprites/bubbles/bowl_hot_dogs.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/room3floor_1.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/320/gui/flash_gui.png
+SHA1-Digest: gZU/Twp0JLoGwW1P893mFJXRR5E=
+
+Name: assets/locations/home/sprites/bubbles/bowl_compote.png
+SHA1-Digest: bA70/rKc1Uhbr8alKR9vQwta6Xc=
+
+Name: lib/armeabi/libdpAndroidNotifications.so
+SHA1-Digest: Nhf27DhJQHNvNjkRNyxKU8Fg+Zo=
+
+Name: assets/locations/home/sprites/bubbles/room3floor_1.png
+SHA1-Digest: oNVF0HvMjSiIVJWmMzbbmffPs8E=
+
+Name: assets/320/gui/flash_gui.ext
+SHA1-Digest: ZI+xRtM92uxlfRI+2KXMcTc7ygo=
+
+Name: assets/locations/home/sprites/bubbles/bowl_compote.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/320/gui/icon_minigame.png
+SHA1-Digest: wr+k7cVTK/v6ANsti24JCrHyR4g=
+
+Name: assets/Icon.png
+SHA1-Digest: C3+hWqsFH3Kg54AmRkbPWlsyxdY=
+
+Name: res/layout/cm_vast_small_view.xml
+SHA1-Digest: fxBtDDXvMwPFKzIYFWWFJ+lHTYA=
+
+Name: assets/sounds/main-cute.mp3
+SHA1-Digest: U3j2TLZ6YTYotrTUG0Q5wKZEk14=
+
+Name: res/drawable/img_interstitial_ads_cm_icon.png
+SHA1-Digest: Ofz3Nal8Zkz54Scse3cRCWcVyng=
+
+Name: assets/320/gui/icon_minigame.ext
+SHA1-Digest: gjYCBDnHSATvKuxeXyvwg+4cWmY=
+
+Name: lib/arm64-v8a/libs3eSamsungInAppPurchasing.so
+SHA1-Digest: G4oRzfIIj+5g6R/ucUXlO0w4kGg=
+
+Name: assets/dex/facebook.dex
+SHA1-Digest: Dw088/PuJmlAou+3ZpVr9NZmWBI=
+
+Name: assets/640/gui/icon_minigame.bin
+SHA1-Digest: jolnU6NxZTW74pC6xFkdPndH2Fg=
+
+Name: assets/locations/home/sprites/bubbles/room4floor_1.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/mwm-splash-480.jpg
+SHA1-Digest: /zeEy1mA5slex7SyZHwsdUMbXo8=
+
+Name: assets/locations/home/sprites/bubbles/bird2.png
+SHA1-Digest: RRpj3Q5JBPJ49hjmp9mWkc2y4Rw=
+
+Name: assets/Icon-Small@2x.png
+SHA1-Digest: HOTKwHuhmA+/yt42N/jTqVxt9aQ=
+
+Name: assets/locations/home/sprites/bubbles/water.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/640/icons_store/icons_repair.bin
+SHA1-Digest: 1+Ej16t2nKAz8E6qA6M0QK1gcTI=
+
+Name: assets/locations/home/sprites/bubbles/bird2.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/map/tileset_padding.png
+SHA1-Digest: Xij/BjrsiZYS7hNsVz7SMvbmKuk=
+
+Name: assets/locations/home/sprites/bubbles/bowl_mohito.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: res/drawable-xxhdpi-v4/tw_widget_progressbar_holo_light.png
+SHA1-Digest: m8l83Y8Huti7AR399rmWCkgKaU4=
+
+Name: assets/sounds/cloth_6.wav
+SHA1-Digest: RfqNI+cedw1pqlXqACgpWSALFgw=
+
+Name: assets/locations/home/sprites/bubbles/bowl_hot_dogs.png
+SHA1-Digest: BZMjuSr4YMJ/Fi/mogXzQOvPwow=
+
+Name: assets/sounds/misc_paper4.wav
+SHA1-Digest: ZxY2Bu8YhK6k/L+jEaNMpJFjZgI=
+
+Name: assets/cat/cat_7.png
+SHA1-Digest: quTwjxVAxr2yZfpP9BNJdVOScbk=
+
+Name: assets/Icon@2x.png
+SHA1-Digest: tfaHWM8BmloAGiwnSClpo4/s8I8=
+
+Name: assets/Icon-Small-40@2x.png
+SHA1-Digest: kS0HiZ93GzpWC3ku/vze5p/qXio=
+
+Name: assets/locations/home/sprites/bubbles/room4wall_3.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: res/drawable/img_interstitial_adsby_bg.png
+SHA1-Digest: NdqiF24WuyYJjE+1RSmg8vgwSjQ=
+
+Name: assets/locations/garden/sprites/bubbles/flamingo.png
+SHA1-Digest: ZQS+sUYfgoNwu9TE2kiQzbxLrVA=
+
+Name: assets/480/icons_store/icons_food.ext
+SHA1-Digest: FN5Zqb9Rei3br1AnqU/pxdyBV0o=
+
+Name: assets/locations/home/sprites/bubbles/bowl_caramel.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/texts_ru.txt
+SHA1-Digest: 2XJuLopj9LX1g5qBvCYgUrAjmdM=
+
+Name: assets/480/icons_store/icons_repair.ext
+SHA1-Digest: 20OyvGwMiGBqC8DCOUES+pYLeEY=
+
+Name: assets/480/icons_store/icons_repair.png
+SHA1-Digest: 7VYsN/7H4HPSnRp0EmTyTBpb3m0=
+
+Name: assets/locations/home/sprites/bubbles/room4wall_3.png
+SHA1-Digest: THhinkpxC2b9vMXXD7H8N3vmsr4=
+
+Name: assets/sounds/cat_slip3.wav
+SHA1-Digest: kU0j9mYXEilKLklSCjtzk3O5ZIo=
+
+Name: res/layout/origin_picks_banner_smail.xml
+SHA1-Digest: GYB6RavnnFdN4kWUzEFrAOkTOwU=
+
+Name: assets/locations/home/sprites/bubbles/cookies.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/room1floor_3.png
+SHA1-Digest: lqGqjRYYZc4mJg2Ijdldck1lJcc=
+
+Name: assets/sounds/cat_drink.wav
+SHA1-Digest: ZVw9nuvqdTLpHhexKH9fHMAtum8=
+
+Name: assets/sounds/cloth_1.wav
+SHA1-Digest: jUgUVQU6CFqWbP1wgV1yQiifG/k=
+
+Name: assets/locations/home/sprites/bubbles/cookies.png
+SHA1-Digest: LH5gTDMFfYiPO8TXUxQnM/N63kc=
+
+Name: assets/locations/garden/sprites/bubbles/flamingo.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/1280/icons_store/icons_service.png
+SHA1-Digest: o7YWq90GUtIYMkRNwgWoA6cOrxI=
+
+Name: assets/480/icons_store/icons_food.png
+SHA1-Digest: llNDSD+lyB0hKuHdR2MRC4lpIsY=
+
+Name: assets/sounds/mau_female_1.wav
+SHA1-Digest: vpeVQYaQS4QZsx2uSCBeQajoQEA=
+
+Name: assets/1280/icons_store/icons_service.ext
+SHA1-Digest: 9wyQLeGaDjWQxf3ujWk1XgG+buw=
+
+Name: assets/640/gui/cat.bin
+SHA1-Digest: Z4DIZPr+79FRgbFJbdEJOsMb3+4=
+
+Name: res/drawable-xhdpi-v4/browser_close.png
+SHA1-Digest: +Kma1sIfHns6B0Nen9b2DN6r+2o=
+
+Name: assets/Icon-Small.png
+SHA1-Digest: 9m0eQV+kZYgKlmFTVi0/fPj6wQs=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal
+ .9.png
+SHA1-Digest: HihHAcXSJV42NtJ0bX0aNnjGTg0=
+
+Name: assets/locations/home/sprites/bubbles/room3floor_2.png
+SHA1-Digest: lk5J1RHn6AuDbQ6wfxGDObO0V54=
+
+Name: assets/320/icons_store/icons_repair.png
+SHA1-Digest: KKmKaBZhD5ORQYJPX7nOksefWH8=
+
+Name: assets/locations/home/sprites/bubbles/room3floor_2.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/1280/gui/cat_choise.bin
+SHA1-Digest: gH2Lmb8qhUb88XKIgCg/DMPXzIM=
+
+Name: assets/320/minigames/flappycat/flappycat.bin
+SHA1-Digest: 0dzfacqkOS0wgYgH1+alJjHtA9Y=
+
+Name: assets/locations/home/sprites/bubbles/sunglasses.png
+SHA1-Digest: uKgYHNOjhMfpYKyVAjujoG0pPn4=
+
+Name: assets/320/icons_store/icons_repair.ext
+SHA1-Digest: XyUt0TMxa1beupkCgP8bBq62Thc=
+
+Name: assets/locations/garden/sprites/bubbles/ladybird.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_light_disable
+ d.9.png
+SHA1-Digest: /9TedBWY3hVupugid7vn6Iby41w=
+
+Name: assets/locations/home/sprites/bubbles/sunglasses.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/room4floor_2.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/particles/flash.bin
+SHA1-Digest: 23Axy77ChVrpzqy1UU3KFEB5k+k=
+
+Name: assets/sounds/msg_n.wav
+SHA1-Digest: 4PhBODFJ23DMkoTydSsAc1lVJ4g=
+
+Name: assets/Icon-Small-40.png
+SHA1-Digest: a+JArvpYlIV7lm5yE9m2BoBkCwE=
+
+Name: assets/sounds/vomit.wav
+SHA1-Digest: zrjeIUkTEeJcQChSuSy46kpCItI=
+
+Name: assets/480/minigames/memory/memory.bin
+SHA1-Digest: Om1rmUHG6Zrx6QfDLCLG9qEP2co=
+
+Name: assets/locations/home/sprites/bubbles/garden.png
+SHA1-Digest: GBvDnZJ+qejS8CCmcvOAUTRqb+g=
+
+Name: assets/960/icons_store/icons_food.ext
+SHA1-Digest: yvHH+5dNIAa/RCkBxdYWiI/YeoQ=
+
+Name: assets/locations/home/sprites/bubbles/bowl_vitamins.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/room1floor_2.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/sounds/pm_bonuse.wav
+SHA1-Digest: oJlr5tjrmtGUPDIn8MLvTxEUOfc=
+
+Name: assets/cat/cat_female.png
+SHA1-Digest: C9nFc1wtkrWGo0512Xo6BlVnUOw=
+
+Name: assets/sounds/mew_love1.wav
+SHA1-Digest: IQhfSBkXjb4bz8/tGVoNfp4Zkds=
+
+Name: assets/Icon-72.png
+SHA1-Digest: r9aF7QqCjkmTxFGnXvWjYOZOMxU=
+
+Name: assets/cat/cat_6.png
+SHA1-Digest: tDSsN6lAdhhlnVdRHvpPSSboc+o=
+
+Name: assets/locations/home/sprites/bubbles/garden.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/960/icons_store/icons_food.png
+SHA1-Digest: kijq+BYKRFQTGCrdajiH7DJYREk=
+
+Name: assets/320/icons_store/icons_toys.bin
+SHA1-Digest: s7YSYvkUcetHix+hLPkEvysfAGA=
+
+Name: assets/320/splash/en/splash.bin
+SHA1-Digest: OAinINuaY6ROYDDugUpI662rtNM=
+
+Name: assets/locations/garden/sprites/bubbles/jeep.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/Icon-40@3x.png
+SHA1-Digest: +6brvOeBYmlLwSdfQ4i6iO4t5rE=
+
+Name: assets/locations/home/sprites/bubbles/curtains_3.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/garden/sprites/bubbles/ladybird.png
+SHA1-Digest: JdDrVqz77CNESymg+V3NugruDf8=
+
+Name: assets/Icon-72@2x.png
+SHA1-Digest: 9fWk9peUtg2ZOkikXtsy8qWcHIY=
+
+Name: assets/cat/cat_female.ext
+SHA1-Digest: cpzBFT/9VxpP907M7PIdsbgH1R8=
+
+Name: assets/locations/home/sprites/bubbles/curtains_3.png
+SHA1-Digest: riDzMCDkpPAUSSHVlkZKxHFHw9E=
+
+Name: assets/480/gui/cat.png
+SHA1-Digest: GwUPEoCMOXqQGwj3DYL+tS4milA=
+
+Name: assets/960/minigames/match3/bejeweled_units.png
+SHA1-Digest: Q35ggD3nY0Aq1AJW7aoceavh08g=
+
+Name: assets/480/gui/cat.ext
+SHA1-Digest: 9m5HZJH0vKDicZIO+pjUkzqNNK0=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.
+ 9.png
+SHA1-Digest: pcfLWB2i3LHPCG6bzpaMRe4X7YE=
+
+Name: assets/960/icons_store/icons_service.bin
+SHA1-Digest: g6ZpnQa8w3pcKobRFlM6fQjkkS4=
+
+Name: assets/960/minigames/match3/bejeweled_units.ext
+SHA1-Digest: H/XvZV+iOosgJW+3F9aYnBYhGZI=
+
+Name: assets/sounds/back_memory.mp3
+SHA1-Digest: tFqCzE2nfiBmNASRhk3fpIlkdD8=
+
+Name: assets/1280/icons_store/icons_toys.bin
+SHA1-Digest: vQUivYQRPyREykeRRP604tm9p2k=
+
+Name: res/layout/cm_splash_time.xml
+SHA1-Digest: 5fbiWZORpCEIAtctn1PsPRL1Fak=
+
+Name: assets/sounds/mau_female_2.wav
+SHA1-Digest: vcsPViJXQcH1HWW6zl2wFRiQ5ok=
+
+Name: assets/640/minigames/match3/bejeweled_units.bin
+SHA1-Digest: Aci/f97HahyQa1xi4ou1mEIe4zY=
+
+Name: assets/sounds/plate1.wav
+SHA1-Digest: p34G2p4LJV4e/BN+U0+8HDc9ImM=
+
+Name: assets/locations/home/sprites/bubbles/ball3.png
+SHA1-Digest: P84D7OeyGpY6OM74LWYBJaPjOyg=
+
+Name: assets/locations/home/sprites/bubbles/room4wall_2.png
+SHA1-Digest: GrDQbFUe0ExoeIwwG4ZKg12Zwx8=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: VudF42Wtygf1coEUB/1KOiuQQfU=
+
+Name: assets/locations/home/sprites/bubbles/toy_cat.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/ball3.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/bowl_basket.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/320/gui/icon_minigame.bin
+SHA1-Digest: e92oYCzYX5U4LdAHLjJogmkNcvQ=
+
+Name: assets/locations/home/sprites/bubbles/room4wall_2.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/toy_cat.png
+SHA1-Digest: 82Clw+FB26ddwK3rOaBF1+ZHXQE=
+
+Name: res/drawable/vast_volume_on.png
+SHA1-Digest: Mrh06y3h/fJL+dHozq4RgDXJnYk=
+
+Name: lib/arm64-v8a/libs3eFlurry.so
+SHA1-Digest: c+IWwNCbdWoXwWntclhWfulYnfc=
+
+Name: assets/sounds/mau_male_1.wav
+SHA1-Digest: sLCUczQlK8F2AK1Ya9fQq4Ne74k=
+
+Name: assets/locations/home/sprites/bubbles/bowl_cocoa.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/room4floor_3.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: lib/arm64-v8a/libs3eAndroidGooglePlayBilling.so
+SHA1-Digest: UWxd2xWhQbejlvZ+y3TU+8TYQKE=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: BXvYjJQ0hjJIk8gOcM/mCKbjJBg=
+
+Name: res/drawable/vast_shrink.png
+SHA1-Digest: rCnAspeTxCBw63EyLZdYOwm3hqA=
+
+Name: assets/sounds/pm_trap.wav
+SHA1-Digest: 2XO1n43ONdiUJ4IT1mjAnrwhbGY=
+
+Name: assets/locations/home/sprites/bubbles/room1floor_3.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/bowl_valerianka.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/640/icons_store/icons_service.ext
+SHA1-Digest: naLmr4jHt79nbDCiO8Ontfnd82g=
+
+Name: assets/locations/home/sprites/bubbles/bowl_valerianka.png
+SHA1-Digest: A3GxdwN38BPl+RtFvmkjFOSvmgI=
+
+Name: assets/640/icons_store/icons_service.png
+SHA1-Digest: DtSvL+YUI9YAJF4HIBjIZDL/JUI=
+
+Name: assets/cat/cat_5.png
+SHA1-Digest: K0XLFV+2LmD4uSsxwJt3LTSdCIg=
+
+Name: assets/locations/garden/sprites/bubbles/fishw.png
+SHA1-Digest: mjfSDLZ3bgKZQDyakaAJ6RB+ikw=
+
+Name: assets/logo/320x320.jpg
+SHA1-Digest: f5sHm3uJzTfrmJkNEMfwIK//Qvc=
+
+Name: assets/locations/home/sprites/bubbles/curtains_2.png
+SHA1-Digest: GOdoDLC/Of6gwie2e4lal7yu+Wk=
+
+Name: assets/locations/garden/sprites/bubbles/gnome.png
+SHA1-Digest: YFVXJlzzgwTQc2TK9QurrQhzjCo=
+
+Name: assets/locations/home/sprites/bubbles/room2floor_3.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/static1.bin
+SHA1-Digest: 2tLxyOFes0bJliLq8WpWYV6yVXQ=
+
+Name: res/color/common_google_signin_btn_text_light.xml
+SHA1-Digest: AxBAd0udjIdtVgF12ufFj0IhwGc=
+
+Name: assets/cat/cat_0.png
+SHA1-Digest: v4BAFhNACTmYwuFe7gU7u+zM4pY=
+
+Name: assets/locations/home/sprites/bubbles/curtains_2.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/bowl_caramel.png
+SHA1-Digest: 24m5bsjzYcF8D2UpBwrdXuNzCLI=
+
+Name: assets/locations/home/sprites/bubbles/room2wall_3.png
+SHA1-Digest: wlkPA3T3sXyY+vGSdgYCmk30Gl8=
+
+Name: assets/locations/home/sprites/bubbles/cat_litter.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_pressed.
+ 9.png
+SHA1-Digest: qRnIWPOu/MJDV1VVJTM7qf+WQdo=
+
+Name: assets/480/gui/cat_choise.bin
+SHA1-Digest: mv1a4eFH+Nq9hin06YwAX3273rE=
+
+Name: assets/locations/home/sprites/bubbles/room2wall_3.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/garden/sprites/bubbles/fishw.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/640/minigames/flappycat/flappycat.bin
+SHA1-Digest: E/7U1gquBYDYu/ytd02I0+MHs8M=
+
+Name: res/layout/cm_activity_picks_interstitial.xml
+SHA1-Digest: 0TPpKRWJEKcCSRhqkxOsA1PXsaw=
+
+Name: assets/locations/garden/sprites/bubbles/gnome.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/480/gui/achievement.bin
+SHA1-Digest: 3dlCS86z4oxdF/IzhC3jeOgkh1A=
+
+Name: assets/cat/cat.png
+SHA1-Digest: qOlkqr7SiT3V2E3jD6DLKr6cjYQ=
+
+Name: assets/sounds/fill_eat2.wav
+SHA1-Digest: HEylZ3xJeZ/SmRyQ+E2nZxhP4K4=
+
+Name: assets/960/gui/icon_minigame.ext
+SHA1-Digest: GXpQslIhf6iuZ4RCVoWhC65vV9c=
+
+Name: assets/locations/home/sprites/bubbles/room1wall_2.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_presse
+ d.9.png
+SHA1-Digest: KGZqA8v1blu83UKCPQIpVppD77g=
+
+Name: assets/960/gui/icon_minigame.png
+SHA1-Digest: 6lycbkcGsHW6bKwu/qxp4CCGn08=
+
+Name: assets/sounds/mau_female_3.wav
+SHA1-Digest: mDO9DW3surQHCgdcsUlAtnVgNUE=
+
+Name: assets/480/gui/flash_gui.bin
+SHA1-Digest: 23Axy77ChVrpzqy1UU3KFEB5k+k=
+
+Name: assets/640/gui/flash_gui.png
+SHA1-Digest: I4Px5i309MHsAE9t3dV/4cHR5jY=
+
+Name: res/drawable-xhdpi-v4/browser_background.png
+SHA1-Digest: KB2UiWMTqboFB3ETVobUhDAxoYU=
+
+Name: assets/640/gui/gui.ext
+SHA1-Digest: MCsYh0k7xcclx1OA8PZ9ub3KYSM=
+
+Name: assets/locations/home/sprites/bubbles/bowl_candy.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/sounds/dry_water.wav
+SHA1-Digest: Ls12H8BfMVb4rp9fVnO0AlVK7r4=
+
+Name: assets/cat/cat_male.bin
+SHA1-Digest: FNcV/qLciY5xcZld75NRtRtxzoQ=
+
+Name: assets/640/gui/gui.png
+SHA1-Digest: D7tJ+jWbn3/Y9HFwjDw6FxSmMgo=
+
+Name: assets/locations/home/sprites/bubbles/bowl_candy.png
+SHA1-Digest: TQy6ArVJSjYSRKJb3U/swcCHcFc=
+
+Name: assets/640/gui/flash_gui.ext
+SHA1-Digest: IiUAoi/5yqRV4ZDB5op7u8jvQAA=
+
+Name: assets/locations/home/sprites/bubbles/room1wall_2.png
+SHA1-Digest: e2uTTUVvkN1kHzYTFUchR4Q4Oyk=
+
+Name: assets/locations/home/sprites/bubbles/room4wall_1.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/1280/gui/gui.bin
+SHA1-Digest: XrxkqemigbgKxFzx3f5B7L9+FAY=
+
+Name: assets/sounds/mau_female4.wav
+SHA1-Digest: ofpiVC31YLo78qulqY69dmAOD2A=
+
+Name: assets/locations/home/sprites/bubbles/knot.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/960/minigames/memory/memory.bin
+SHA1-Digest: A8drhbScC34JT3oJmBshH4TV+ps=
+
+Name: assets/locations/garden/sprites/bubbles/ufo.png
+SHA1-Digest: 2y0+/Gv4+DAjprg4Pw9xcrAmm+c=
+
+Name: assets/locations/home/sprites/bubbles/food.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/sounds/tap.wav
+SHA1-Digest: qnMJEtJh1uhbClqSBBDsnM7Q9SA=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_light_disable
+ d.9.png
+SHA1-Digest: OA0Fce69H4xvHHf2U1Bxe3VntiA=
+
+Name: res/layout/cm_vast_ad_layout.xml
+SHA1-Digest: bCaAx9ts6rM/qbIqRMN3/hNmpVM=
+
+Name: assets/sounds/firework_sparkler.wav
+SHA1-Digest: X0EO9pvTtwm6eZjYivKtOal1ICc=
+
+Name: assets/640/minigames/memory/memory.bin
+SHA1-Digest: IxY77JPNTb1i5tPw+Fv6QLKPE/4=
+
+Name: assets/locations/garden/sprites/bubbles/mush.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/sounds/cloth_3.wav
+SHA1-Digest: 8alKlYtdkiX5OYbwGaXnz/qhS8I=
+
+Name: assets/locations/garden/sprites/static2.ext
+SHA1-Digest: TvR0Du8syaFmz1NsDmejaNHDsz8=
+
+Name: assets/sounds/mau_male_2.wav
+SHA1-Digest: A16O9o3Ha48234mWQyQy+XYpPZI=
+
+Name: assets/640/gui/icon_minigame.ext
+SHA1-Digest: EkQxaAVLaXeNqgVlOiDzsvTXUJ4=
+
+Name: assets/locations/garden/sprites/bubbles/nbox.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/room4wall_1.png
+SHA1-Digest: w9V67K1i/xylTzhITVtjWOJG3WQ=
+
+Name: assets/640/gui/icon_minigame.png
+SHA1-Digest: 1CMLf0mDUyZteCAIMYkQOzociI8=
+
+Name: assets/locations/garden/sprites/bubbles/ufo.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: res/drawable-xhdpi-v4/tw_widget_progressbar_effect_holo_light.pn
+ g
+SHA1-Digest: EJJbqEtdd/7ZXxiEk6OuT1liDCw=
+
+Name: res/drawable/common_google_signin_btn_text_light.xml
+SHA1-Digest: 4rjqP4EerXBXmszpTUeosWa8/fY=
+
+Name: assets/sounds/item_buy.wav
+SHA1-Digest: 2pCeaC/8ZYTlc+hotSYh2Uc0y5g=
+
+Name: assets/locations/home/sprites/bubbles/bowl_water.png
+SHA1-Digest: FcBIuBHxWE871sC9GZrf80hWDLg=
+
+Name: assets/320/gui/cat_choise.ext
+SHA1-Digest: x3zGcAhnnjgilSD9NjTpVsfQ0zQ=
+
+Name: assets/locations/home/sprites/bubbles/room3wall_1.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/sounds/ambience_2.mp3
+SHA1-Digest: lmTY0+wRQxWt+/DMffH4xEmIZG4=
+
+Name: assets/temp/tmp9.dat
+SHA1-Digest: 0Rd8wwaC3s673RZNzmdinDZl9Us=
+
+Name: assets/locations/home/sprites/bubbles/bowl_chocolate.png
+SHA1-Digest: dr7yL1bcCVRDflt1ffd+u4aSFk4=
+
+Name: res/drawable-xhdpi-v4/browser_unleft_arrow.png
+SHA1-Digest: HP6258/WCHRAlJFG3ALP1S2FT60=
+
+Name: assets/locations/home/sprites/bubbles/player.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/320/minigames/memory/memory.bin
+SHA1-Digest: 0ac62QF4eCepVRDJ8g1HcWmwpVY=
+
+Name: assets/locations/home/sprites/bubbles/bench_6.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/cat/cat_4.png
+SHA1-Digest: xOSMDg59uJOxkOMdKcanre/TYUc=
+
+Name: assets/480/gui/icon_minigame.png
+SHA1-Digest: rNhKDVDKAH2o6Jk9m0XLVDLzICM=
+
+Name: assets/960/icons_store/icons_interior.png
+SHA1-Digest: mY5FE/hak4WJS83hfeJY3hl5r0Y=
+
+Name: assets/locations/home/sprites/bubbles/curtains_1.png
+SHA1-Digest: FuXShexUL4vGm+n7toMdidJUIfQ=
+
+Name: assets/locations/home/sprites/bubbles/spray.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/sounds/hellicopter_blast2.wav
+SHA1-Digest: 72Z1HVS0bKxHsgkvzXYp8xXG/rQ=
+
+Name: assets/locations/home/sprites/bubbles/hamster.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/sounds/bubbles3a.wav
+SHA1-Digest: rTHRqqICgY4dDEv92HMkWI1Dje0=
+
+Name: assets/locations/home/sprites/bubbles/bowl_water.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/320/gui/cat_choise.png
+SHA1-Digest: IEG+hxsACpnmzxE+pbnEFQwir9s=
+
+Name: assets/960/icons_store/icons_interior.ext
+SHA1-Digest: 61BrI8MAU7zOJgzCK9CkPTaTEXE=
+
+Name: assets/locations/home/sprites/bubbles/curtains_1.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/spray.png
+SHA1-Digest: iHITaymNHO4p5S1k7hrmZcbn0/M=
+
+Name: assets/locations/home/sprites/bubbles/room3wall_1.png
+SHA1-Digest: S76CetGuEbcFZEv4pz0VWmqSh9k=
+
+Name: assets/cat/cat_1.png
+SHA1-Digest: a7pgFkGx7Us1H36mUZB6foGhNcY=
+
+Name: assets/locations/home/sprites/bubbles/bowl_chocolate.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/room2wall_2.png
+SHA1-Digest: +1JurwS1Ca9egdSUTuJZ1udYZYU=
+
+Name: assets/sounds/cat_shock.wav
+SHA1-Digest: Yn9wHk/w2CK+BTuDDia1kB8HsGs=
+
+Name: assets/locations/home/sprites/bubbles/hair_brush.png
+SHA1-Digest: Z4mRxYN+mLcQU4mgsnsct14o4eQ=
+
+Name: res/drawable/cmasdk_market_top_gp.png
+SHA1-Digest: RmhGd4ruiIe266kycxoJfq+5IOU=
+
+Name: assets/sounds/helicopter.wav
+SHA1-Digest: k97OeF++2Ml1RrcftmaI7Qpbf7M=
+
+Name: assets/320/icons_store/icons_interior.png
+SHA1-Digest: T3Z6ryupFNGwCJQNA/d4qbr+DVw=
+
+Name: assets/locations/home/sprites/bubbles/bowl_sausage.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/room2floor_2.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/480/minigames/match3/bejeweled_units.ext
+SHA1-Digest: y4EaBuQynpOGzG4sOVt6iL5SH5I=
+
+Name: assets/960/splash/en/splash.bin
+SHA1-Digest: nN0IyoG3i9qHPeYA8a7t7sKV+3M=
+
+Name: assets/locations/garden/sprites/bubbles/mill.png
+SHA1-Digest: tRWwJMfRYO4UC9IqDJRn93AzJAo=
+
+Name: assets/locations/home/sprites/bubbles/bench_6.png
+SHA1-Digest: nIhh9m9m2/EHzSEuW2FPqkWm+bo=
+
+Name: assets/960/icons_store/icons_repair.bin
+SHA1-Digest: J/PhNH0f94Rgpp+wIIt8F7a2Qsk=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: ER8sHzLlqfDUoW+jD2gMIc8RLIY=
+
+Name: res/drawable-xxhdpi-v4/tw_widget_progressbar_effect_holo_light.p
+ ng
+SHA1-Digest: M16tkWBoPLN/UfaenbgxCzzwayU=
+
+Name: assets/320/icons_store/icons_interior.ext
+SHA1-Digest: ZtrClMVHpjZHRqFGJHpNrYpY6HE=
+
+Name: assets/locations/home/sprites/bubbles/bowl_sausage.png
+SHA1-Digest: WXpElfSyJVe+VhVy+aerwe4mrI8=
+
+Name: assets/480/minigames/match3/bejeweled_units.png
+SHA1-Digest: ZqMbbqsf0ytxl8AC9Vc6wXk0OAM=
+
+Name: assets/locations/home/sprites/bubbles/room2wall_2.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: res/drawable/vast_watchagain.png
+SHA1-Digest: mipnBjy5jWF/NK58mYXF4TUlOSM=
+
+Name: assets/locations/garden/sprites/bubbles/mill.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/hair_brush.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/bowl_cocktail.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/960/gui/cat_choise.png
+SHA1-Digest: olGenx5+dwXSwLg0eYdeicupMDE=
+
+Name: assets/locations/home/sprites/bubbles/room2floor_1.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/sounds/mau_female_4.wav
+SHA1-Digest: 62DfAReunlmoZ7wtDULUZqoOmGU=
+
+Name: assets/sounds/water_fall.wav
+SHA1-Digest: FQvHkOw6Nu68rIPW0BUzNz+Lx/I=
+
+Name: assets/960/icons_store/icons_shop_garden.png
+SHA1-Digest: VqbigrhvqlcD06Ao4OJH402Wh58=
+
+Name: assets/locations/garden/sprites/bubbles/jeep.png
+SHA1-Digest: QYdASbVd64mjWysq0Cm9oAQ5iCs=
+
+Name: lib/arm64-v8a/libs3eAmazonInAppPurchasing.so
+SHA1-Digest: bqarfy59bPi1Yk63wkZZPvxphQQ=
+
+Name: assets/960/gui/cat_choise.ext
+SHA1-Digest: uyUbFZCwxOLoW6rQrd3CPvFEkxM=
+
+Name: res/drawable-xhdpi-v4/tw_widget_progressbar_holo_light.png
+SHA1-Digest: 12iNWDMnNd03QaXDN1+N8LbGEhc=
+
+Name: res/drawable/tw_widget_progressbar_holo_light.png
+SHA1-Digest: F0s1AhgRvHgSL8MlR7Vli3yUSCk=
+
+Name: assets/960/icons_store/icons_shop_garden.ext
+SHA1-Digest: MrBudvmpojqtQ4l3+Hrnscc1vd8=
+
+Name: assets/locations/home/sprites/bubbles/room1floor_2.png
+SHA1-Digest: JIoLIWeQs8SRVWOwtzJBOlYpspA=
+
+Name: assets/locations/home/sprites/bubbles/tank.png
+SHA1-Digest: ObagnbZtG5FpHCUQUCKPNnLryeE=
+
+Name: assets/sounds/mau_male_3.wav
+SHA1-Digest: OeEZFn2U7KiNp4ptLnOQzc5JiZ4=
+
+Name: res/layout/cm_activity_full_screen_video.xml
+SHA1-Digest: OIKYWADOuZtuc53jfBlXgX6Ij58=
+
+Name: assets/locations/home/sprites/bubbles/bowl_doughnut.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/bowl_steak.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/tank.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/480/gui/icon_minigame.ext
+SHA1-Digest: /DDiDSmoGaJE1ZlgT3ACGPJHXmw=
+
+Name: assets/locations/garden/sprites/bubbles/bowl_water.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/lamp.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/bowl_doughnut.png
+SHA1-Digest: f3nVAeRlhiW1tO1Ginc87DvxGlI=
+
+Name: assets/locations/home/sprites/bubbles/room1wall_1.png
+SHA1-Digest: kM+1tlb7tN7eij9W+wbVCkK1VPM=
+
+Name: assets/locations/home/sprites/bubbles/room1wall_1.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: res/drawable/common_google_signin_btn_text_dark.xml
+SHA1-Digest: aRxLMEcNTFPhQEvY9SGS4CDyZjY=
+
+Name: assets/480/icons_store/icons_interior.bin
+SHA1-Digest: RuhRrtUt0YghGzuYjxtKRt8EpFM=
+
+Name: assets/sounds/cloth_2.wav
+SHA1-Digest: lCk85V3ko+VIyMFU2Tib6wSJ6UE=
+
+Name: res/drawable/progressbar.xml
+SHA1-Digest: XngECWJ4wppNDnq6Hr2AdBIzdv4=
+
+Name: assets/locations/home/sprites/bubbles/bowl_pill.png
+SHA1-Digest: uvyw5rur9/u/fo4hhDCnQCG1gIs=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_dark_pressed.
+ 9.png
+SHA1-Digest: q0cFR5EsIwskfG/BKnFT3jGVHFk=
+
+Name: assets/sounds/cat_run2.wav
+SHA1-Digest: IRr/4nDtYMpuN9kDjC6kkVSmUH4=
+
+Name: assets/sounds/cat_grumbling_male.wav
+SHA1-Digest: wZg/7ngVpRDNkWCKY00p/itDODo=
+
+Name: assets/cat/cat_2.png
+SHA1-Digest: 00pZiI9IctniCZiD/h4yESzr2ng=
+
+Name: assets/locations/home/sprites/bubbles/bowl_bonbon.png
+SHA1-Digest: YE0fsnkplTXMCo93a1ZivSYmrwg=
+
+Name: assets/sounds/tank-crash.wav
+SHA1-Digest: aYm9cbNdJHiUtQI9mNN+zQxs59o=
+
+Name: assets/Icon-76.png
+SHA1-Digest: eLJk9O9pngmJdxgu/eVY7AkLUxA=
+
+Name: assets/vg_mute_on.png
+SHA1-Digest: 4JDaX13RiPW/OBOTIEOVqWs5S+Q=
+
+Name: assets/locations/home/sprites/bubbles/owl.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/locations/home/sprites/bubbles/bowl_pill.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: build-data.properties
+SHA1-Digest: 6cTFcAFXyNCv/umHCtgPlOQDovg=
+
+Name: assets/locations/home/sprites/bubbles/bench_5.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/home/sprites/bubbles/bowl_bonbon.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/locations/garden/sprites/bubbles/ball1.bin
+SHA1-Digest: jG4HfJE3tX9aB4faRU+h9sN9c6s=
+
+Name: assets/640/gui/cat_choise.ext
+SHA1-Digest: Tmhc9rOqa5e68q1hm7BEaVvcjWg=
+
+Name: assets/640/icons_store/icons_interior.png
+SHA1-Digest: kPWUxb9ty5+2xfjVhmC4LX/kwkM=
+
+Name: assets/locations/home/sprites/bubbles/bench_5.png
+SHA1-Digest: R6ygB4HdcTx1yKv6KacfL9GbNCQ=
+
+Name: assets/320/gui/cat.png
+SHA1-Digest: DsCysQv2KV8Ma2hV6cDe2T8cd0g=
+
+Name: assets/locations/home/sprites/bubbles/room2wall_1.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/640/splash/en/splash.bin
+SHA1-Digest: 5XaXXvPZ6EXbMYZh18qSB/yEOmo=
+
+Name: assets/640/icons_store/icons_interior.ext
+SHA1-Digest: XVZ2heJRuAZ6gi5UHexy/ZWACz0=
+
+Name: assets/320/gui/cat.ext
+SHA1-Digest: woVjhAP+YTx/1xc1HuikHLUJz+A=
+
+Name: assets/locations/home/sprites/bubbles/room2wall_1.png
+SHA1-Digest: rmraqpfThNX5RtfrTFvJ54J5qqY=
+
+Name: assets/locations/home/sprites/bubbles/room1floor_1.png
+SHA1-Digest: G+WZlzVHUPZa+hKE7SR53/Cs4cU=
+
+Name: res/layout/activity_picks_browser.xml
+SHA1-Digest: u99ymDG3tjPlFyjutkwnpvPtzms=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_disab
+ led.9.png
+SHA1-Digest: 58Og/fmpU60HQnWtVOw7395bTkw=
+
+Name: assets/480/gui/gui.bin
+SHA1-Digest: oFcmxfhmVmXHWZcBISLh9ga0by8=
+
+Name: assets/locations/home/sprites/bubbles/toy_bear.png
+SHA1-Digest: g1tUC1ke7+GodZJORAGpryyYKOw=
+
+Name: res/drawable-xhdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: n2/2ie/CRTHKb96aKs7x2D1ryPU=
+
+Name: assets/locations/home/sprites/bubbles/room1floor_1.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+
+Name: assets/480/splash/en/splash.bin
+SHA1-Digest: ZJ4n20njmPlKDGGEgJOcxlyDc2o=
+
+Name: assets/640/gui/cat_choise.png
+SHA1-Digest: WFe/1iQGqz/w2o1Sdv1sowCb73g=
+
+Name: assets/locations/home/sprites/bubbles/toy_bear.ext
+SHA1-Digest: ylPikWuaYw45EqjnGofZ7sNxN+U=
+

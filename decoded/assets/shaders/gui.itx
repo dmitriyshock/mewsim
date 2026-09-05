@@ -1,0 +1,86 @@
+CIwGxShaderTechnique
+{
+	name "gui"	
+	
+	param "body_color" 		vec3 1 no_default
+	param "strip_color" 	vec3 1 no_default
+	
+	shader "vertex"
+	{
+		attribute highp vec4 inVert;
+		attribute highp vec2 inUV0;
+
+		varying highp vec2 varUV0;		
+		
+		uniform highp mat4 inPMVMat;
+		uniform highp mat4 inMVMat;
+		
+		void main()
+		{
+			varUV0 = inUV0;
+			gl_Position = inPMVMat * inVert;			
+		}
+	}
+	
+	shader "fragment"
+	{
+		uniform sampler2D inSampler0;
+		uniform sampler2D inSampler1;
+		uniform lowp vec4 inMaterialAmbient;
+		
+		varying highp vec2 varUV0;	
+
+		uniform highp vec3 body_color;
+		uniform highp vec3 strip_color;		
+
+		void main()
+		{
+			highp vec4 base 		= texture2D( inSampler0, varUV0 );
+			highp vec4 new_color 	= texture2D( inSampler1, varUV0 );				
+			
+			highp float len_color = length( new_color.rgb * new_color.a );
+			
+			if( len_color > 0.0 )
+			{
+				base.rgb = base.rgb * ( 1.0 - new_color.a ) + ( ( body_color * 0.75 ) * new_color.r + strip_color * new_color.g + body_color * new_color.b ) * new_color.a;
+			}
+				
+			gl_FragColor = base;	
+		}
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
