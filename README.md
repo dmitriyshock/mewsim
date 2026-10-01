@@ -7,7 +7,7 @@
 | Версия | Скачать | Что внутри |
 | --- | --- | --- |
 | Обычная — 1.4.1 | [Скачать обычную версию](https://github.com/dmitriyshock/mewsim/releases/download/v1.4.3-mod/MewSim-1.4.1-Android15-16.apk) | Рабочая игра для Android 15–16 без мода валюты. |
-| MOD dmitryshock — 1.4.3 | [Скачать версию с модом](https://github.com/dmitriyshock/mewsim/releases/download/v1.4.3-mod/MewSim-1.4.3-MOD-dmitryshock-Android15-16.apk) | 1 048 576 монет и 1 048 576 кристаллов с начала игры. |
+| MOD dmitryshock — 1.4.4 | [Скачать версию с модом](https://github.com/dmitriyshock/mewsim/releases/download/v1.4.4-mod/MewSim-1.4.4-MOD-dmitryshock-Android15-16.apk) | 1 048 576 монет и 1 048 576 кристаллов с начала игры. |
 
 В моде при запуске появляется надпись **«Автор мода dmitryshock»**. При загрузке
 сохранения оба баланса снова пополняются до 1 048 576. Покупки в течение сессии
@@ -17,11 +17,18 @@
 сохранением: чистота, голод, жажда, сон и настроение продолжают меняться.
 На Galaxy S24 Ultra с Android 16 проверены запуск, покупки, изменение загрязнения
 после мытья, изменение остальных показателей со временем и сохранение прогресса.
+В MOD 1.4.4 исправлены вылеты при движении кота у границы комнаты и ошибки
+создания/восстановления экрана игры. Добавлены проверки координат и ожидание
+готовности Surface перед возобновлением графики. ARM64-тест воспроизводит старый
+сбой и проверяет 126 случаев координат. На Android 16 проверены 10 сворачиваний
+и возвратов, повторные запуски, запуск с выключенным экраном, движение и магазин.
+Обычная версия 1.4.1 по первой ссылке осталась прежней.
+
 Android 15 на отдельном физическом устройстве не проверен. Мод валюты работает
 в варианте ARM64; старые библиотеки рассчитаны на 4-КБ страницы памяти.
 
-Оба APK доступны в [релизе с обычной и модифицированной версиями](https://github.com/dmitriyshock/mewsim/releases/tag/v1.4.3-mod).
-Там же есть [исходники мода](https://github.com/dmitriyshock/mewsim/releases/download/v1.4.3-mod/MewSim-1.4.3-MOD-source.zip) и [результаты проверки](https://github.com/dmitriyshock/mewsim/releases/download/v1.4.3-mod/MewSim-verification.txt).
+Исправленный MOD доступен в [релизе 1.4.4 с исправлением вылетов](https://github.com/dmitriyshock/mewsim/releases/tag/v1.4.4-mod).
+Там же есть [исходники мода](https://github.com/dmitriyshock/mewsim/releases/download/v1.4.4-mod/MewSim-1.4.4-MOD-source.zip) и [результаты проверки](https://github.com/dmitriyshock/mewsim/releases/download/v1.4.4-mod/MewSim-verification.txt).
 Исходники в `decoded/` этой основной ветки относятся к обычной версии;
 исходники мода и его сценарий сборки находятся в отдельном архиве релиза.
 
@@ -47,7 +54,7 @@ SHA-256 установочных файлов:
 | APK | SHA-256 |
 | --- | --- |
 | Обычная версия 1.4.1 | `01ce26c35363083e1f645185f930f75f132358709a196cac140d212dbe48fee2` |
-| MOD dmitryshock 1.4.3 | `75828a6364b008cb00a76dfee4eb3dac17788b4b7e7b9872bdc8acca9a3406b5` |
+| MOD dmitryshock 1.4.4 | `75b02cf5f227bda1dae2459f40ce5c42b65121578f31b01bedd4643e6f382025` |
 
 Подробности обычной версии — в [release/Проверка.txt](release/Проверка.txt).
 Проверка мода приложена к релизу.
